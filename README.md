@@ -49,11 +49,11 @@ De gebruikte methodes waren:
 
 * Literatuurstudie
 
-__Interview met ervaringsdeskundige__
+__Interview met ervaringsdeskundige (N= )__
 
-Naast de gesprekken met de doelgroep werd er ook gecommuniceerd met een ervaringsdeskundige die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise was handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen. 
+Er werden interviews afgenomen met een ervaringsdeskundigen die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise was handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen. 
 
-__Literatuurstudie__ 
+__Literatuurstudie (N= 10)__ 
 
 Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. In totaal zijn er 10 papers of artikels onderzocht. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
 ### Resultaten
