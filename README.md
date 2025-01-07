@@ -63,7 +63,7 @@ Definieer de belangrijkste designbeslissingen
 
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
 
-Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goed oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
+Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goede oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 ## Definition
 Max. 1000 woorden
 Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
@@ -161,6 +161,7 @@ __Discovery__
 * __Interview__
   * Protocol
   * Rapport
+
 __Definition__
 * __Wave 1 gebruikerstesten__
   * Protocol
