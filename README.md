@@ -65,12 +65,36 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
+Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
 ### Doestellingen
-Wat wilde je bereiken?
+* Storyboard 
+* Quick-and-dirty prototypes 
+* Concept bekomen 
+* Concept valideren 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+* Prototypes uit hout 
+* Prototypes uit karton 
+* Digitale interface 
+* Gebruikerstesten 
+* Gebruikersinterviews 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Aan de hand van gebruikerstesten kunnen we onze concepten evalueren. Dit doen we met gebruikers uit de doelgroep die we voor ogen hebben. Op deze manier kunnen we tijdens de interactie problemen of moeilijkheden observeren. 
+
+__WAVE 1__ 
+
+Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie stellen we de drie prototypes voor. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
+
+SCREENSHOT GEBRUIKERSTEST + FOTOS PROTOTYPES 
+
+Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van –1 tot en met +2 gegeven worden. -1 voor “niet goed”, +2 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
+
+SCREENSHOT SCORES 
+
+__WAVE 2__
+
+Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bouwen. Er werden drie prototypes bedacht en uitgewerkt. Tijdens deze gebruikerstest focussen we ons op de interactie met het prototype. In het tweede semester willen we ons richten op het ontwerpen van de interface. De interactie tussen de gebruiker en het prototype varieert bij elk prototype. Knoppen die al dan niet zichtbaar zijn, de combinatie die op een vaste of een zelf-regelbare snelheid afspeelt. We zijn op dezelfde manier te werk gegaan als tijdens de eerste gebruikerstest. Eerst de prototypes laten uittesten, daarna de gebruiker interviewen en achteraf analyseren. Voor bepaalde criteria werden weer scoringsmatrices opgesteld.  
+
+FOTO PRTOTOTYPE/TESTEN 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
