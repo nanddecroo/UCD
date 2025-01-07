@@ -117,25 +117,25 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 __Discovery__
 * __Literatuuronderzoek__
   
-** Protocol
+  * Protocol
 
-** Rapport
+  * Rapport
 
 * __Interview__
   
-** Protocol
+  *  Protocol
 
-** Rapport
+  * Rapport
 
 __Definition__
 
 * __Wave 1 gebruikerstesten__
 
-** Protocol
+  * Protocol
   
-** Rapport
+  * Rapport
 
 * __Wave 2 gebruikerstesten__
 
-** Protocol
-** Rapport
+  * Protocol
+  * Rapport
