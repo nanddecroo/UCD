@@ -116,15 +116,26 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 ## Bijlagen
 __Discovery__
 * __Literatuuronderzoek__
+  
 ** Protocol
+
 ** Rapport
+
 * __Interview__
+  
 ** Protocol
+
 ** Rapport
+
 __Definition__
+
 * __Wave 1 gebruikerstesten__
+
 ** Protocol
+  
 ** Rapport
+
 * __Wave 2 gebruikerstesten__
+
 ** Protocol
 ** Rapport
