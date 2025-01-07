@@ -21,16 +21,16 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 Als weergave van de methodologie werd de methode van de ‘Double Diamond’ toegepast. Deze methode bestaat uit 4 fasen die hieronder worden uitgelegd. 
 
-<u>Fase 1</u> 
+Fase 1 
 Het project begon met de keuze van design challenge, dat uiteindelijk ‘Healty Aging’ werd. Om meer te weten over dit onderwerp werd research gedaan naar de problemen bij de gekozen doelgroep. Ook werd meer kennis opgedaan door interviews, met zowel de gebruiker als met 2 ervaringsdeskundigen, en een literatuurstudie. Hierdoor kon men ideeën ontwikkelen en divergerend gaan brainstormen. 
 
-<u>Fase 2</u>
+Fase 2
 In deze fase is het de bedoeling dat er een tijdelijk concept bedacht wordt door de eerder bedachte concepten (fase 1) te gaan convergeren. Die wordt dan gepresenteerd d.m.v. een pitch 
 
-<u>Fase 3</u>
+Fase 3
 Na de pitch werd een team samengesteld en werd voor het gekozen concept gebrainstormd en ging men opnieuw gaan divergeren. Hiervoor werden in 2 waves verschillende prototypes gemaakt die vervolgens getest werden door de gekozen doelgroep (N=5).  
 
-<u>Fase 4</u>
+Fase 4
 Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor kon men gaan convergeren naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie. 
 ## Discovery
 Max. 1000 woorden
