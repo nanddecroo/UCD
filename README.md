@@ -1,18 +1,15 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# Intelight
+*Het combineren van fysieke activiteit en cognitieve stimulatie die zowel het lichaam als de hersenen versterkt, wat helpt om geheugenverlies preventief tegen te gaan.*
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: De Waele Briek; De Croo Nand*
 
-Datum   
-
+08/01/2025
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en een verminderende cognitieve functie. Aan de hand van literatuurstudie en interviews zijn we dit gaan onderzoeken. Onze conclusie is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. Deze oplossing wordt ontwikkeld door middel van verschillende gebruikerstests uit de 2 waves van het eerste semester. Voordat deze tests plaatsvinden, worden prototypes ontworpen op basis van de voorafgaande onderzoeken. 
+
+SKETCH
 
 ## Introductie
 Max 300 woorden.
