@@ -48,6 +48,8 @@ De gebruikte methodes waren:
 * Interview met ervaringsdeskundige 
 
 * Literatuurstudie
+### Resultaten
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
 __Interview met ervaringsdeskundige (N= )__
 
@@ -56,8 +58,6 @@ Er werden interviews afgenomen met een ervaringsdeskundigen die diepgaande kenni
 __Literatuurstudie (N= 10)__ 
 
 Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. In totaal zijn er 10 papers of artikels onderzocht. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
