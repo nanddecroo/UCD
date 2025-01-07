@@ -45,8 +45,6 @@ Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. benchma
 ### Materiaal & methoden
 De gebruikte methodes waren: 
 
-* Interviews met de doelgroep 
-
 * Interview met ervaringsdeskundige 
 
 * Literatuurstudie
