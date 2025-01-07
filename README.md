@@ -35,7 +35,9 @@ Na de pitch werd een team samengesteld en werd voor het gekozen concept gebrains
 
 __Fase 4__
 
-Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor kon men gaan convergeren naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie. 
+Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor kon men gaan convergeren naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
+
+AFBEELDING DIAMAND
 ## Discovery
 Max. 1000 woorden
 ### Doestellingen
