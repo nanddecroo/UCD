@@ -21,7 +21,7 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 Als weergave van de methodologie werd de methode van de ‘Double Diamond’ toegepast. Deze methode bestaat uit 4 fasen die hieronder worden uitgelegd. 
 
-Fase 1 
+__Fase 1__
 
 Het project begon met de keuze van design challenge, dat uiteindelijk ‘Healty Aging’ werd. Om meer te weten over dit onderwerp werd research gedaan naar de problemen bij de gekozen doelgroep. Ook werd meer kennis opgedaan door interviews, met zowel de gebruiker als met 2 ervaringsdeskundigen, en een literatuurstudie. Hierdoor kon men ideeën ontwikkelen en divergerend gaan brainstormen. 
 
