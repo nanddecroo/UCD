@@ -41,7 +41,7 @@ AFBEELDING DIAMAND
 ## Discovery
 Max. 1000 woorden
 ### Doestellingen
-Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. benchmarks en literatuur, om zo zich te hebben op het probleem en een oplossing te gaan bedenken. Wat ook een doelstelling was, was het convergeren van de verschillende concepten naar 1 gekozen concept. Dit werd bekomen door de concepten te gaan uitwerken d.m.v. prototypes. Vervolgens werden deze prototypes in contact gebracht met de doelgroep van dit project. Zo kon het gedrag van de gebruiker onderzocht worden, wat ook een doelstelling was dit semester.  
+Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. interviews en literatuur, om zo zich te hebben op het probleem en een oplossing te gaan bedenken. Wat ook een doelstelling was, was het convergeren van de verschillende concepten naar 1 gekozen concept. Dit werd bekomen door de concepten te gaan uitwerken d.m.v. prototypes. Vervolgens werden deze prototypes in contact gebracht met de doelgroep van dit project. Zo kon het gedrag van de gebruiker onderzocht worden, wat ook een doelstelling was dit semester.  
 ### Materiaal & methoden
 De gebruikte methodes waren: 
 
