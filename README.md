@@ -51,16 +51,19 @@ De gebruikte methodes waren:
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
-__Interview met ervaringsdeskundige (N= )__
+__Interview met ervaringsdeskundige (N= 3)__
 
 Er werden interviews afgenomen met een ervaringsdeskundigen die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise was handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen. 
 
 __Literatuurstudie (N= 10)__ 
 
-Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. In totaal zijn er 10 papers of artikels onderzocht. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
+Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
+Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
+
+Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goed oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 ## Definition
 Max. 1000 woorden
 Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
@@ -116,26 +119,15 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 ## Bijlagen
 __Discovery__
 * __Literatuuronderzoek__
-  
   * Protocol
-
   * Rapport
-
 * __Interview__
-  
-  *  Protocol
-
-  * Rapport
-
-__Definition__
-
-* __Wave 1 gebruikerstesten__
-
   * Protocol
-  
   * Rapport
-
+__Definition__
+* __Wave 1 gebruikerstesten__
+  * Protocol
+  * Rapport
 * __Wave 2 gebruikerstesten__
-
   * Protocol
   * Rapport
