@@ -177,9 +177,6 @@ __Negatieve aspecten/werkpunten__
 __Conclusie__ 
 
 Tot nu toe liep het project vlot. Zo zit de samenwerking goed, de feedback van de doelgroep is positief en ook de documentatie is in orde. Ondanks dit alles, werd in het eerste semester toch met de tijd geworsteld. De diversiteit van de doelgroep en de duidelijkheid van de prototypes konden beter. Een groter aantal testers zou een positief effect op ons project gehad hebben. Nu is het aan de groepsleden om de positieve aspecten aan te houden en aan de negatieve aspecten te werken in het tweede semester. 
-## Bronnen
-
-[^1]: Corrada, M. M., Brookmeyer, R., Paganini‐Hill, A., Berlau, D., & Kawas, C. H. (2009). Dementia incidence continues to increase with age in the oldest old: The 90+ study. Annals Of Neurology
 
 ## Bijlagen
 __Soryboard__
@@ -208,3 +205,7 @@ __Definition__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZ0a0e4UxSNAnWVUYQDnIiQB5WDNmhABZjaIjHXAPcsrmA?e=a14Cu0)
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZt7PyPyn0JHvj6A8d-wA8UBd1ZW62XhCz2g48GQjEiyYw?e=b9FzAo)
   * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EU2_0dEthc5DjmyXs7uG1icBKKj7tkdiknNRASXVH-6iDg?e=hdaQ1v)
+
+## Bronnen
+
+[^1]: Corrada, M. M., Brookmeyer, R., Paganini‐Hill, A., Berlau, D., & Kawas, C. H. (2009). Dementia incidence continues to increase with age in the oldest old: The 90+ study. Annals Of Neurology
