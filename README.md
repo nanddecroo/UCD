@@ -92,7 +92,7 @@ Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een kor
 
 Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van 0 tot en met +4 gegeven worden. Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
 
-<img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="300"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="300"> 
+<img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="500"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="500"> 
 
 __WAVE 2__
 
@@ -102,7 +102,7 @@ Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bo
 <img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300"> <img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300"> <img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
 <img src="Afbeeldingen/prototype6.1.jpg" alt="p61" width="300"> <img src="Afbeeldingen/prototype6.2.jpg" alt="p62" width="300"> <img src="Afbeeldingen/prototype6.3.jpg" alt="p63" width="300">
 
-FOTO PRTOTOTYPE/TESTEN 
+<img src="Afbeeldingen/Gebruiksvriendelijk.jpg" alt="matrix 3" width="500"> <img src="Afbeeldingen/Moeilijkheid2.jpg" alt="matrix 4" width="500"> 
 
 ### Conclusies & implicaties
 Uit de gebruikerstesten en gebruikersinterviews konden een paar conclusies en implicaties getrokken worden. Deze staan hieronder opgesomd. 
