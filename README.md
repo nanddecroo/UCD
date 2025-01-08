@@ -132,7 +132,7 @@ __6. Keuze van concept__
 Uit wave 1 kon geconcludeerd worden dat het prototype met het scherm en de 4 knoppen waarbij de kleurencombinatie onthouden moest worden het meest in de smaak viel bij de testers. Daar werd op ingegaan in wave 2. Ook de prototypes, die zijn gemaakt door het divergeren van het gekozen concept van wave 2, werden door 4 van de 5 testers goedgekeurd. Op deze concept wordt dus verdergegaan in het tweede semester.
 
 ## Bill of materials
-- Dun hout voor te lasercutten
+- Dun hout voor de behuizing
 - Scherm om kleurencombinatie te tonen
 - Drukknoppen die kunnen oplichten in verschillende kleuren,
   om de combinatie in te geven en het scherm te kunnen bedienen 
