@@ -165,6 +165,14 @@ Tot nu toe liep het project vlot. Zo zit de samenwerking goed, de feedback van d
 1. Corrada, M. M., Brookmeyer, R., Paganini‐Hill, A., Berlau, D., & Kawas, C. H. (2009). Dementia incidence continues to increase with age in the oldest old: The 90+ study. Annals Of Neurology
 
 ## Bijlagen
+__Soryboard__
+
+<img src="Afbeeldingen/Storyb.jpg" alt="storyboard" width="500">
+
+__Persona__
+
+<img src="Afbeeldingen/persona.jpg" alt="Persona" width="500">
+
 __Discovery__
 * __Literatuuronderzoek__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EQO5ojILUhpAvYdhQs5gqDYBsdjP-rOHDWYg51mH7GlOow?e=6d7VBJ)
@@ -178,6 +186,8 @@ __Definition__
 * __Wave 1 gebruikerstesten__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/Eb980PCmLEBCnWNDjG_flh8BfeC5139l5l0VIOIjY3vm0g?e=roBAXN)
   * Rapport
+  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EdSriIjsqNBFpWl6v9d3dGMBsB7fI7kc8Qbja1BooHT7Kg?e=hbgTDS)
 * __Wave 2 gebruikerstesten__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZ0a0e4UxSNAnWVUYQDnIiQB5WDNmhABZjaIjHXAPcsrmA?e=a14Cu0)
   * Rapport
+  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EU2_0dEthc5DjmyXs7uG1icBKKj7tkdiknNRASXVH-6iDg?e=hdaQ1v)
