@@ -16,6 +16,19 @@ Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
+
+Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
+
+Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe ([1](https://github.com/nanddecroo/UCD/blob/main/bestand.js#L168)). Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties  
+
+Hierbij wordt als combinatie kleuren gebruikt. Die kleuren worden getoond d.m.v. een scherm. Na de combinatie gezien te hebben moet de combinatie correct worden ingegeven d.m.v. gekleurde knoppen. De cognitieve oefening kan gespeeld worden op verschillende niveaus. Zo kan er gevarieerd worden met de visualisatie van de kleurencombinatie. De duur van elke kleur kan zo korter/langer zichtbaar gemaakt worden, of ze kiezen de duur door zelf het scherm te besturen. Ook kan er met de knoppen gevarieerd worden. Deze kunnen op voorhand of slechts een beperkte tijd zichtbaar zijn. Ook het aantal kleuren (= aantal knoppen) kan aangepast worden aan de gebruiker. Deze parameters zorgen ervoor dat elke gebruiker met deze cognitieve oefening wordt uitgedaagd. 
+
+Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuele perceptie getraind en actief gehouden. Dit veroorzaakt de vertraging van de cognitieve achteruitgang van het brein. De belangrijkste randvoorwaarden hierbij zijn: 
+
+* Gebruiksvriendelijk 
+* Vermakelijk 
+* Aanpasbaar niveau 
+* Veiligheid 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
@@ -151,7 +164,8 @@ __Conclusie__
 
 Tot nu toe liep het project vlot. Zo zit de samenwerking goed, de feedback van de doelgroep is positief en ook de documentatie is in orde. Ondanks dit alles, werd in het eerste semester toch met de tijd geworsteld. De diversiteit van de doelgroep en de duidelijkheid van de prototypes konden beter. Een groter aantal testers zou een positief effect op ons project gehad hebben. Nu is het aan de groepsleden om de positieve aspecten aan te houden en aan de negatieve aspecten te werken in het tweede semester. 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+
+1. Corrada, M. M., Brookmeyer, R., Paganini‐Hill, A., Berlau, D., & Kawas, C. H. (2009). Dementia incidence continues to increase with age in the oldest old: The 90+ study. Annals Of Neurology
 
 ## Bijlagen
 __Discovery__
