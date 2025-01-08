@@ -19,7 +19,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
-Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe ([1](https://github.com/nanddecroo/UCD/blob/main/bestand.js#L168)). Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties  
+Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe ([1](https://github.com/nanddecroo/UCD/blob/main/bronnen.js#L168)). Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties  
 
 Hierbij wordt als combinatie kleuren gebruikt. Die kleuren worden getoond d.m.v. een scherm. Na de combinatie gezien te hebben moet de combinatie correct worden ingegeven d.m.v. gekleurde knoppen. De cognitieve oefening kan gespeeld worden op verschillende niveaus. Zo kan er gevarieerd worden met de visualisatie van de kleurencombinatie. De duur van elke kleur kan zo korter/langer zichtbaar gemaakt worden, of ze kiezen de duur door zelf het scherm te besturen. Ook kan er met de knoppen gevarieerd worden. Deze kunnen op voorhand of slechts een beperkte tijd zichtbaar zijn. Ook het aantal kleuren (= aantal knoppen) kan aangepast worden aan de gebruiker. Deze parameters zorgen ervoor dat elke gebruiker met deze cognitieve oefening wordt uitgedaagd. 
 
