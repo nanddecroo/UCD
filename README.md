@@ -100,7 +100,9 @@ Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bo
 
 FOTO PRTOTOTYPE/TESTEN 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit de eerste gebruikerstesten is gebleken dat de algemene voorkeur naar prototype 1 gaat. De gebruikers ervaarden het meeste plezier, maar ook het meeste uitdaging, bij dit prototype.
+
+
 
 ## Bill of materials
 - Welk
@@ -160,16 +162,17 @@ Tot nu toe liep het project vlot. Zo zit de samenwerking goed, de feedback van d
 ## Bijlagen
 __Discovery__
 * __Literatuuronderzoek__
-  * Protocol
-  * Rapport
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EQO5ojILUhpAvYdhQs5gqDYBsdjP-rOHDWYg51mH7GlOow?e=6d7VBJ)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/ER4nJUiCkOtConL68cadCsgBBR-UiJlHnRMlCM_Cl6AXbQ?e=wm2MFH)
 * __Interview__
-  * Protocol
-  * Rapport
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EbDdueQYRsFEp-3c0Lc8U9IBAZy17bBKNqHP2-ao8GOVgg?e=LDE5yt)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EUAGYqYv4BZKow6MQDt2m_sBL42e95z8hOtlYqybAQRS-Q?e=eaTqn9)
+  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EVc9HSN4QXlMqAPy4dVvViIBcxVU0onC3P6XKRvjQf-UfQ?e=MHBypZ)
 
 __Definition__
 * __Wave 1 gebruikerstesten__
-  * Protocol
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/Eb980PCmLEBCnWNDjG_flh8BfeC5139l5l0VIOIjY3vm0g?e=roBAXN)
   * Rapport
 * __Wave 2 gebruikerstesten__
-  * Protocol
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZ0a0e4UxSNAnWVUYQDnIiQB5WDNmhABZjaIjHXAPcsrmA?e=a14Cu0)
   * Rapport
