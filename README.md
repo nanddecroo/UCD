@@ -88,9 +88,9 @@ __WAVE 1__
 
 Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie stellen we de drie prototypes voor. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
 
-<img src="Afbeeldingen/proto1.jpg" alt="p1" width="500"> 
-<img src="Afbeeldingen/proto2.jpg" alt="p2" width="500"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="500"> 
-<img src="Afbeeldingen/proto3.jpg" alt="p3" width="500"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="500">
+<img src="Afbeeldingen/proto1.jpg" alt="p1" width="300"> 
+<img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300"> 
+<img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
 
 Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van –1 tot en met +2 gegeven worden. -1 voor “niet goed”, +2 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
 
