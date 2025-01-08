@@ -9,8 +9,7 @@ Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze 
 
 De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. Deze oplossing wordt ontwikkeld door middel van verschillende gebruikerstests uit de 2 waves van het eerste semester. Voordat deze tests plaatsvinden, worden prototypes ontworpen op basis van de voorafgaande onderzoeken. 
 
-SKETCH
-
+[SCHETS](https://github.com/nanddecroo/UCD/blob/main/Afbeeldingen/schets.jpg)
 ## Introductie
 Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
