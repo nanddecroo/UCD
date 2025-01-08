@@ -12,7 +12,7 @@ De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers 
 <img src="Afbeeldingen/schets.jpg" alt="SCHETS" width="500">
 
 ## Introductie
-Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
+Het project is vetrokken uit de design challenge “Healthy Aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
 Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe [^1]. Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties.
 
