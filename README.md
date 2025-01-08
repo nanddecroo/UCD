@@ -88,11 +88,9 @@ __WAVE 1__
 
 Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie stellen we de drie prototypes voor. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
 
-<img src="Afbeeldingen/proto1.jpg" alt="p1" width="300">
-<img src="Afbeeldingen/proto2.jpg" alt="p2" width="300">
-<img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300">
-<img src="Afbeeldingen/proto3.jpg" alt="p3" width="300">
-<img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
+<img src="Afbeeldingen/proto1.jpg" alt="p1" width="500"> 
+<img src="Afbeeldingen/proto2.jpg" alt="p2" width="500"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="500"> 
+<img src="Afbeeldingen/proto3.jpg" alt="p3" width="500"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="500">
 
 Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van –1 tot en met +2 gegeven worden. -1 voor “niet goed”, +2 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
 
@@ -102,14 +100,9 @@ __WAVE 2__
 
 Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bouwen. Er werden drie prototypes bedacht en uitgewerkt. Tijdens deze gebruikerstest focussen we ons op de interactie met het prototype. In het tweede semester willen we ons richten op het ontwerpen van de interface. De interactie tussen de gebruiker en het prototype varieert bij elk prototype. Knoppen die al dan niet zichtbaar zijn, de combinatie die op een vaste of een zelf-regelbare snelheid afspeelt. We zijn op dezelfde manier te werk gegaan als tijdens de eerste gebruikerstest. Eerst de prototypes laten uittesten, daarna de gebruiker interviewen en achteraf analyseren. Voor bepaalde criteria werden weer scoringsmatrices opgesteld.  
 
-<img src="Afbeeldingen/prototype4.1.jpg" alt="p41" width="300">
-<img src="Afbeeldingen/prototype4.2.jpg" alt="p42" width="300">
-<img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300">
-<img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300">
-<img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
-<img src="Afbeeldingen/prototype6.1.jpg" alt="p61" width="300">
-<img src="Afbeeldingen/prototype6.2.jpg" alt="p62" width="300">
-<img src="Afbeeldingen/prototype6.3.jpg" alt="p63" width="300">
+<img src="Afbeeldingen/prototype4.1.jpg" alt="p41" width="300"> <img src="Afbeeldingen/prototype4.2.jpg" alt="p42" width="300">
+<img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300"> <img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300"> <img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
+<img src="Afbeeldingen/prototype6.1.jpg" alt="p61" width="300"> <img src="Afbeeldingen/prototype6.2.jpg" alt="p62" width="300"> <img src="Afbeeldingen/prototype6.3.jpg" alt="p63" width="300">
 
 FOTO PRTOTOTYPE/TESTEN 
 
