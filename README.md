@@ -9,7 +9,8 @@ Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze 
 
 De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. Deze oplossing wordt ontwikkeld door middel van verschillende gebruikerstests uit de 2 waves van het eerste semester. Voordat deze tests plaatsvinden, worden prototypes ontworpen op basis van de voorafgaande onderzoeken. 
 
-<img src="Afbeeldingen/schets.jpg" alt="SCHETS" width="300">
+<img src="Afbeeldingen/schets.jpg" alt="SCHETS" width="500">
+
 ## Introductie
 Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
@@ -43,7 +44,7 @@ __Fase 4__
 Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor kon men gaan convergeren naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
 
 AFBEELDING DIAMAND
-## Discovery
+## 1.1 Discovery
 ### Doestellingen
 Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. interviews en literatuur, om zo zich te hebben op het probleem en een oplossing te gaan bedenken. Wat ook een doelstelling was, was het convergeren van de verschillende concepten naar 1 gekozen concept. Dit werd bekomen door de concepten te gaan uitwerken d.m.v. prototypes. Vervolgens werden deze prototypes in contact gebracht met de doelgroep van dit project. Zo kon het gedrag van de gebruiker onderzocht worden, wat ook een doelstelling was dit semester.  
 ### Materiaal & methoden
@@ -66,7 +67,7 @@ Definieer de belangrijkste designbeslissingen
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
 
 Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goede oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
-## Definition
+## 1.2 Definition
 Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
 ### Doestellingen
 * Storyboard 
