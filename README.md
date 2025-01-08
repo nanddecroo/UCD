@@ -12,11 +12,6 @@ De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers 
 SKETCH
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
-
-
 Het project is vetrokken uit de design challenge “Healty aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
 Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe ([1](https://github.com/nanddecroo/UCD/blob/main/README.md#L168)). Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties  
@@ -30,8 +25,6 @@ Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuel
 * Aanpasbaar niveau 
 * Veiligheid 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
-
 Als weergave van de methodologie werd de methode van de ‘Double Diamond’ toegepast. Deze methode bestaat uit 4 fasen die hieronder worden uitgelegd. 
 
 __Fase 1__
@@ -52,7 +45,6 @@ Door de testen werden probleempunten duidelijk en konden conclusies getrokken wo
 
 AFBEELDING DIAMAND
 ## Discovery
-Max. 1000 woorden
 ### Doestellingen
 Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. interviews en literatuur, om zo zich te hebben op het probleem en een oplossing te gaan bedenken. Wat ook een doelstelling was, was het convergeren van de verschillende concepten naar 1 gekozen concept. Dit werd bekomen door de concepten te gaan uitwerken d.m.v. prototypes. Vervolgens werden deze prototypes in contact gebracht met de doelgroep van dit project. Zo kon het gedrag van de gebruiker onderzocht worden, wat ook een doelstelling was dit semester.  
 ### Materiaal & methoden
@@ -62,8 +54,6 @@ De gebruikte methodes waren:
 
 * Literatuurstudie
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-
 __Interview met ervaringsdeskundige (N= 3)__
 
 Er werden interviews afgenomen met een ervaringsdeskundigen die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise was handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen. 
@@ -78,7 +68,6 @@ Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen
 
 Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goede oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 ## Definition
-Max. 1000 woorden
 Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
 ### Doestellingen
 * Storyboard 
