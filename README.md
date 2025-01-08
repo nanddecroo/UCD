@@ -90,9 +90,9 @@ Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een kor
 
 <img src="Afbeeldingen/proto1.jpg" alt="p1" width="300"> <img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300"> <img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
 
-Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van 0 tot en met +3 gegeven worden. 0 voor “niet goed”, 3 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
+Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van 0 tot en met +4 gegeven worden. Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
 
-SCREENSHOT SCORES 
+<img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="300"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="300"> 
 
 __WAVE 2__
 
@@ -105,9 +105,31 @@ Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bo
 FOTO PRTOTOTYPE/TESTEN 
 
 ### Conclusies & implicaties
-Uit de eerste gebruikerstesten is gebleken dat de algemene voorkeur naar prototype 1 gaat. De gebruikers ervaarden het meeste plezier, maar ook het meeste uitdaging, bij dit prototype.
+Uit de gebruikerstesten en gebruikersinterviews konden een paar conclusies en implicaties getrokken worden. Deze staan hieronder opgesomd. 
 
+__1. Variëteit van de doelgroep__
 
+Zowel de leeftijd als ook de capaciteiten van de doelgroep zijn heel verschillend. Hierdoor is het belangrijk dat er verschillende moeilijkheidsniveaus zijn zodat elke gebruiker mentaal getraind kan worden. Het prototype waarbij enkel de plaats en volgorde van de opgelichte cirkel moest onthouden worden (uit wave 1) was voor de meesten te makkelijk. Het prototype waarbij men de taak kreeg om zowel de volgorde van de kleuren als de kleuren van de knoppen te onthouden was voor de meesten dan weer te moeilijk. In het 2e semester moet hierin een evenwicht gevonden worden. 
+
+__2. Technologisch aspect van het ontwerp__
+
+Bij het prototype waarbij men zelf op het scherm ging tikken om zo de snelheid van de kleurencombinatie aan te passen, kon er geconcludeerd worden dat dit vaak voor moeilijkheden zorgde. Dit kan eventueel opgelost worden door het scherm te besturen met knoppen, i.p.v. het tikken op het scherm. 
+
+__3. Moeilijkheden drukknop__
+
+Na het zien van de kleurenvolgorde bij de test met het scherm en de 4 knoppen (uit wave 1) is het de bedoeling dat de kleurencombinatie gaat ingeven waarbij elke knop staat voor een kleur, visueel zichtbaar gemaakt door de latjes die erboven werden geplaatst. Dit zorgde voor verwarring, aangezien ze niet op de knoppen drukten maar op de kleuren van de latjes. Hier werd rekening mee gehouden in wave 2 waarbij de kleuren op de knoppen stonden. 
+
+__4. Verwarring door aftellen__
+
+Voordat de kleurencode op het scherm getoond werd, werd er eerst afgeteld. Voor sommige testers was dit onduidelijk, aangezien ze het idee hadden dat ze de cijfers moesten onthouden i.p.v. de kleurenvolgorde. Dit zorgde voor verwarring. In plaats van het aftellen bijvoorbeeld kan een balk gebruikt worden die van 0 naar 100% gaat in het tweede semester. 
+
+__5. Timing__
+
+Wat verwarrend was voor sommige testers in wave 1 bij het prototype met het scherm en de knoppen, was de timing van het ingeven van de kleurencombinatie. Zo drukten testers de knoppen al in voordat de kleurencombinatie volledig getoond was. Hier werd op ingegaan bij de 2e wave waarbij de knoppen pas na de combinatie zichtbaar werden. Dit had een positieve invloed op de testen. 
+
+__6. Keuze van concept__
+
+Uit wave 1 kon geconcludeerd worden dat het prototype met het scherm en de 4 knoppen waarbij de kleurencombinatie onthouden moest worden het meest in de smaak viel bij de testers. Daar werd op ingegaan in wave 2. Ook de prototypes, die zijn gemaakt door het divergeren van het gekozen concept van wave 2, werden door 4 van de 5 testers goedgekeurd. Op deze concept wordt dus verdergegaan in het tweede semester.
 
 ## Bill of materials
 - Welk
