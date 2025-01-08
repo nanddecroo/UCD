@@ -90,7 +90,7 @@ Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een kor
 
 <img src="Afbeeldingen/proto1.jpg" alt="p1" width="300"> <img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300"> <img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
 
-Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van –1 tot en met +2 gegeven worden. -1 voor “niet goed”, +2 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
+Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van 0 tot en met +3 gegeven worden. 0 voor “niet goed”, 3 voor “heel tevreden” Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
 
 SCREENSHOT SCORES 
 
@@ -185,9 +185,9 @@ __Discovery__
 __Definition__
 * __Wave 1 gebruikerstesten__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/Eb980PCmLEBCnWNDjG_flh8BfeC5139l5l0VIOIjY3vm0g?e=roBAXN)
-  * Rapport
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EWpgg5un1oVDny0ijt7-1XgBJvvFsVy6mcjcF40fSneS1g?e=kaXiP6)
   * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EdSriIjsqNBFpWl6v9d3dGMBsB7fI7kc8Qbja1BooHT7Kg?e=hbgTDS)
 * __Wave 2 gebruikerstesten__
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZ0a0e4UxSNAnWVUYQDnIiQB5WDNmhABZjaIjHXAPcsrmA?e=a14Cu0)
-  * Rapport
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZt7PyPyn0JHvj6A8d-wA8UBd1ZW62XhCz2g48GQjEiyYw?e=b9FzAo)
   * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EU2_0dEthc5DjmyXs7uG1icBKKj7tkdiknNRASXVH-6iDg?e=hdaQ1v)
