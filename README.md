@@ -63,7 +63,6 @@ __Literatuurstudie (N= 10)__
 
 Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
 
