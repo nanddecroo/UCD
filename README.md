@@ -5,7 +5,7 @@
 
 08/01/2025
 ## Samenvatting
-Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en een verminderende cognitieve functie. Aan de hand van literatuurstudie en interviews zijn we dit gaan onderzoeken. Onze conclusie is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
+Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en een verminderende cognitieve functie. Dit is onderzocht aan de hand van literatuurstudie en interviews. De conclusie hieruit is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
 
 De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. Deze oplossing wordt ontwikkeld door middel van verschillende gebruikerstests uit de 2 waves van het eerste semester. Voordat deze tests plaatsvinden, worden prototypes ontworpen op basis van de voorafgaande onderzoeken. 
 
@@ -37,11 +37,11 @@ In deze fase is het de bedoeling dat er een tijdelijk concept bedacht wordt door
 
 __Fase 3__
 
-Na de pitch werd een team samengesteld en werd voor het gekozen concept gebrainstormd en ging men opnieuw gaan divergeren. Hiervoor werden in 2 waves verschillende prototypes gemaakt die vervolgens getest werden door de gekozen doelgroep (N=5).  
+Na de pitch werd een team samengesteld en werd voor het gekozen concept gebrainstormd en opnieuw gedivergeerd. Hiervoor werden in 2 waves verschillende prototypes gemaakt die vervolgens getest werden door de gekozen doelgroep (N=5).  
 
 __Fase 4__
 
-Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor kon men gaan convergeren naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
+Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor werd geconvergeerd naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
 
 <img src="Afbeeldingen/doublediamond%20(1).jpg" alt="diamond" width="700">
 
@@ -66,9 +66,9 @@ Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact h
 
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
 
-Uit de interviews leiden we af dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging krijg je een goede oefening die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
+Uit de interviews werd afgeleid dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging wordt een goede oefening gecreëerd die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 ## 1.2 Definition
-Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo tot een concept te komen. 
+Tijdens de definitiefase worden mogelijke oplossingen onderzocht en geëvalueerd om zo tot een concept te komen. 
 ### Doestellingen
 * Storyboard 
 * Quick-and-dirty prototypes 
@@ -81,11 +81,11 @@ Tijdens de definitiefase onderzoeken en evalueren we mogelijke oplossingen om zo
 * Gebruikerstesten 
 * Gebruikersinterviews 
 ### Resultaten
-Aan de hand van gebruikerstesten kunnen we onze concepten evalueren. Dit doen we met gebruikers uit de doelgroep die we voor ogen hebben. Op deze manier kunnen we tijdens de interactie problemen of moeilijkheden observeren. 
+De concepten worden geëvalueerd aan de hand van gebruikerstesten. Dit gebeurt met gebruikers uit de doelgroep die we voor ogen hebben. Op deze manier kunnen we tijdens de interactie problemen of moeilijkheden observeren. 
 
 __WAVE 1__ 
 
-Ons doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie stellen we de drie prototypes voor. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
+Het doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie worden de drie prototypes voorgesteld. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
 
 <img src="Afbeeldingen/proto1.jpg" alt="p1" width="300"> <img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300"> <img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
 
@@ -95,7 +95,7 @@ Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie s
 
 __WAVE 2__
 
-Uit de eerste gebruikerstest konden we een concept selecteren om op verder te bouwen. Er werden drie prototypes bedacht en uitgewerkt. Tijdens deze gebruikerstest focussen we ons op de interactie met het prototype. In het tweede semester willen we ons richten op het ontwerpen van de interface. De interactie tussen de gebruiker en het prototype varieert bij elk prototype. Knoppen die al dan niet zichtbaar zijn, de combinatie die op een vaste of een zelf-regelbare snelheid afspeelt. We zijn op dezelfde manier te werk gegaan als tijdens de eerste gebruikerstest. Eerst de prototypes laten uittesten, daarna de gebruiker interviewen en achteraf analyseren. Voor bepaalde criteria werden weer scoringsmatrices opgesteld.  
+Uit de eerste gebruikerstest werd een concept geselecteerd om op verder te bouwen. Er werden drie prototypes bedacht en uitgewerkt. Tijdens deze gebruikerstest ligt de focus op de interactie met het prototype. In het tweede semester ligt de focus op het ontwerpen van de interface. De interactie tussen de gebruiker en het prototype varieert bij elk prototype. Knoppen die al dan niet zichtbaar zijn, de combinatie die op een vaste of een zelf-regelbare snelheid afspeelt. Tijdens deze gebrukerstets wordt op dezelfde manier te werk gegaan als in de eerste gebruikerstest. Eerst de prototypes laten uittesten, daarna de gebruiker interviewen en achteraf analyseren. Voor bepaalde criteria werden weer scoringsmatrices opgesteld.  
 
 <img src="Afbeeldingen/prototype4.1.jpg" alt="p41" width="300"> <img src="Afbeeldingen/prototype4.2.jpg" alt="p42" width="300">
 <img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300"> <img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300"> <img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
@@ -137,7 +137,7 @@ Uit wave 1 kon geconcludeerd worden dat het prototype met het scherm en de 4 kno
   om de combinatie in te geven en het scherm te kunnen bedienen 
 
 ## Kritische reflectie
-In dit project, bestaande uit twee teamleden, hebben we gewerkt aan de ontwikkeling van een product die hersenen gaan stimuleren, voor de achteruitgang van ouderen af te remmen. Om de loop van het project te gaan evalueren worden verschillende aspecten kritisch gereflecteerd. 
+In dit project, bestaande uit twee teamleden, werd er gewerkt aan de ontwikkeling van een product die hersenen gaan stimuleren, voor de achteruitgang van ouderen af te remmen. Om de loop van het project te gaan evalueren worden verschillende aspecten kritisch gereflecteerd. 
 
 __Positieve aspecten__ 
 
