@@ -130,6 +130,48 @@ __6. Keuze van concept__
 
 Uit wave 1 kon geconcludeerd worden dat het prototype met het scherm en de 4 knoppen waarbij de kleurencombinatie onthouden moest worden het meest in de smaak viel bij de testers. Daar werd op ingegaan in wave 2. Ook de prototypes, die zijn gemaakt door het divergeren van het gekozen concept van wave 2, werden door 4 van de 5 testers goedgekeurd. Op deze concept wordt dus verdergegaan in het tweede semester.
 
+## 2.1 Develop 1
+Tijdens deze fase wordt de fysieke ergonomie onderzocht. Dit is een belangrijk onderdeel aangezien senioren minder flexibel en bewegelijk zijn. De focus ligt vooral op de schouder, bovenarm en nek omdat de beze delen het meest belast worden.
+
+### Doelstellingen
+Met deze test worden de dimensies en de vorm van het product bepaald. Er worden ook inzichten verworven over de bewegelijkheid van senioren. 
+
+### Materiaal & methoden
+* Prototype uit hout 
+* Prototypes uit karton  
+* Gebruikerstesten 
+* Gebruikersinterviews
+* BERT-test
+
+### Resultaten
+De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zijn. Er worden tijdens deze fase 3 testen afgenomen per respondent (N=4).
+
+__Test 1__
+
+Met deze test wordt de vorm van het product bepaalt. De knoppen worden telkens in een andere vorm geplaatst. Hiervoor zijn drie prototypes gemaakt. Prototype 1 heeft de vorm van een balk en heeft vier knoppen. Prototype 2 heeft de vorm van een vierkant. Het laatste prototype heeft de vorm van boog. Op de prototypes staan lijnen met daarop gekleurde schijfjes als voorstelling van een knop. Telkens wordt gevraagd aan de respondent om de schijfjes te verschuiven volgens de richting van de lijnen. Na de test wordt de BERT-test ingevuld.
+
+FOTO VAN PROTOTYPES test 1 ETC.
+
+
+__Test 2__
+
+Tijdens test 2 verschuift de respondent een schijfje tot zijn of haar ideale afstand waar de schouder en arm het meest comfortabel aanvoelen. Vervolgens wordt de afstand opgemeten. Hiermee wordt een beeld geschept over de bewegelijkheid van de senioren.
+
+FOTO PROTOTYPE test 2
+
+__Test 3__
+
+Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat.
+
+FOTOs test 3
+
+### Conclusies & implicaties
+
+## 2.2 Develop 2
+
+## 2.3 Develop 3
+
+
 ## Bill of materials
 - Dun hout voor de behuizing
 - Scherm om kleurencombinatie te tonen
