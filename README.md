@@ -168,6 +168,9 @@ FOTOs test 3
 ### Conclusies & implicaties
 
 ## 2.2 Develop 2
+### Doelstellingen
+### Materiaal & methoden
+### Resultaten
 
 ## 2.3 Develop 3
 
