@@ -150,30 +150,127 @@ __Test 1__
 
 Met deze test wordt de vorm van het product bepaalt. De knoppen worden telkens in een andere vorm geplaatst. Hiervoor zijn drie prototypes gemaakt. Prototype 1 heeft de vorm van een balk en heeft vier knoppen. Prototype 2 heeft de vorm van een vierkant. Het laatste prototype heeft de vorm van boog. Op de prototypes staan lijnen met daarop gekleurde schijfjes als voorstelling van een knop. Telkens wordt gevraagd aan de respondent om de schijfjes te verschuiven volgens de richting van de lijnen. Na de test wordt de BERT-test ingevuld.
 
-FOTO VAN PROTOTYPES test 1 ETC.
+<img src="Afbeeldingen/3protos.jpg" alt="protosd31test1" width="300"> <img src="Afbeeldingen/d3.1_invulbert.jpg" alt="bert" width="300"> <img src="Afbeeldingen/d3.1_bertingevuld.jpg" alt="bertresult" width="300">
 
 
 __Test 2__
 
 Tijdens test 2 verschuift de respondent een schijfje tot zijn of haar ideale afstand waar de schouder en arm het meest comfortabel aanvoelen. Vervolgens wordt de afstand opgemeten. Hiermee wordt een beeld geschept over de bewegelijkheid van de senioren.
 
-FOTO PROTOTYPE test 2
+<img src="Afbeeldingen/d3.1_test2.jpg" alt="31test2" width="300"> <img src="Afbeeldingen/d3.1_test2result.jpg" alt="31test2resul" width="300">
+
 
 __Test 3__
 
 Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat.
 
-FOTOs test 3
+<img src="Afbeeldingen/d3.1_test3.jpg" alt="31test3" width="300"> <img src="Afbeeldingen/d3.1_test3result.jpg" alt="31test3resul" width="300">
+
 
 ### Conclusies & implicaties
 
 ## 2.2 Develop 2
+Gedurende deze fase wordt gekeken naar de cognitieve ergonomie van het product. Daarbij wordt onderzocht in hoeverre de interface en de interactie logisch en begrijpelijk zijn voor de gebruiker. Het doel is dat het systeem gemakkelijk te gebruiken is, zonder dat het onnodig veel denkwerk vereist. Zo kan de gebruiker zich concentreren op de eigenlijke taak, zonder afgeleid te worden door onduidelijke bediening of verwarring over hoe het systeem werkt. Op die manier draagt de test bij aan een gebruiksvriendelijke, efficiënte en toegankelijke gebruikerservaring. 
+
 ### Doelstellingen
+Nagaan of de interface logisch en gebruiksvriendelijk is, zodat de gebruiker het systeem intuïtief kan bedienen zonder onnodige mentale inspanning. 
+
 ### Materiaal & methoden
+* Het prototype, gekozen in Develop 1 
+* Smartphone (voor Protopie) 
+* Smartphone (voor wizard-of-oz methode) 
+* Gebruikerstesten 
+* Gebruikersinterviews 
+* Wizard-of-oz 
+* BERT-test 
+* Think aloud protocol (TAP) 
+* Error-analyse 
+
 ### Resultaten
+De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Elke van de 3 testen die worden afgenomen per respondent (N=4) bestaan steeds uit 3 dezelfde fases. Deze verschillen van prototype, die worden uitgelegd hieronder. 
+
+_Prototypes_
+
+De basis blijft voor de verschillende testen hetzelfde, enkel bij de 3e test komt er een 5e fysieke knop bij. De verandering in het besturen van de console gebeurt d.m.v. Protopie via de smartphone die verbonden is aan het prototype.  
+
+_Fase 1_
+
+In het eerste prototype verschijnt de melding “Klik op het scherm om te beginnen”, waarna de kleuren één voor één zichtbaar worden telkens er op het scherm wordt geklikt.
+
+FOTO
+
+_Fase 2_
+
+In de tweede test blijft de taak dezelfde, maar wordt de interactie aangepast: in plaats van op het scherm te tikken, moet de gebruiker op een knop in de hoek van het scherm drukken om naar de volgende kleur te gaan.
+
+FOTO
+
+_Fase 3_
+In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fictieve vijfde fysieke knop onder het scherm. Deze interactie wordt gesimuleerd met behulp van de wizard-of-oz-methode, waarbij het scherm extern bestuurd wordt.
+FOTO
+
+__Test 1: Unguided test__
+
+Bij deze test komt de respondent in contact met de console zonder (extra) uitleg. Om te achterhalen hoe duidelijk de console is, worden zowel de tijd tot het voltooien van de volledige handeling als de fouten die de gebruiker tegenkomt gemeten. De gegevens worden weergegeven in de twee onderstaande tabellen en in de staafgrafiek. 
+
+FOTO
+
+Na afloop van de test legden de deelnemers een BERT-test af en gaven ze hun voorkeur aan. De resultaten hiervan zijn te zien hieronder. 
+
+FOTO
+
+__Test 2: Think aloud protocol (TAP)__
+
+Het TAP verliep niet zoals gehoopt. De ouderen vonden het moeilijk om tegelijkertijd te spreken, nadenken en handelingen uit te voeren. Hierdoor vergaten ze vaak hardop te vertellen wat ze dachten, raakten de kleurenvolgorde kwijt of wisten niet meer hoe het prototype werkte. Deze test is dus niet handig voor het verdere verloop van het project. 
+
+__Test 3: Guided test__
+
+Deze test komt overeen met de 1e test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
+
+FOTO
+
+Ook na de guided test werd een BERT-test afgenomen. 
+
+FOTO
+
+### Conclusies & implicaties
+
 
 ## 2.3 Develop 3
+In de laatste fase wordt ingegaan op het sensoriële aspect van de console. Zo wordt nagegaan hoe duidelijk en comfortabel de handelingen met het product zijn voor een optimale beleving tijdens de interactie. 
 
+Eerst wordt getest hoeveel verlichting nodig is om de bijbehorende kleur van de knop goed zichtbaar te maken, evenals de optimale positie van die verlichting. De vorm en grootte van de knoppen worden in een apart prototype onderzocht. 
+### Doelstellingen
+Het evalueren van de sensorische gebruikservaring, met focus op zichtbaarheid, comfort en interactie van de knoppen. 
+### Materiaal & methoden
+* Prototype voor de verlichting 
+* Prototype voor de knoppen 
+* Gebruikerstesten 
+* Ranking 
+### Resultaten
+De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 2 testen waarvoor elk een prototype nodig is. 
+
+_Prototypes_
+
+Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kon een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en welke Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
+
+FOTO
+
+Het tweede prototype bestaat uit een 3D-geprint bakje met een veer, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Onderstaande afbeelding toont het prototype. 
+
+FOTO
+
+__Test 1: Verlichting__
+
+Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. Uit deze feedback kon hetgeen geconcludeerd worden dat hieronder is afgebeeld. 
+
+FOTO
+__Test 2: Knoppen__
+
+Hiervoor worden 3 verschillende groottes van knoppen voorgelegd aan de respondent. Hieruit kon het volgende geconcludeerd worden: 
+
+FOTO
+### Conclusies & implicaties
 
 ## Bill of materials
 - Dun hout voor de behuizing
