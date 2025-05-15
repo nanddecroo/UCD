@@ -330,22 +330,30 @@ __Persona__
 
 __Discovery__
 * __Literatuuronderzoek__
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EQO5ojILUhpAvYdhQs5gqDYBsdjP-rOHDWYg51mH7GlOow?e=6d7VBJ)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/ER4nJUiCkOtConL68cadCsgBBR-UiJlHnRMlCM_Cl6AXbQ?e=wm2MFH)
+  * <a href="DOCX/Testprotocol Literature review.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport Literature review.pdf" target="_blank">Rapport (PDF)</a>
 * __Interview__
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EbDdueQYRsFEp-3c0Lc8U9IBAZy17bBKNqHP2-ao8GOVgg?e=LDE5yt)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EUAGYqYv4BZKow6MQDt2m_sBL42e95z8hOtlYqybAQRS-Q?e=eaTqn9)
-  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EVc9HSN4QXlMqAPy4dVvViIBcxVU0onC3P6XKRvjQf-UfQ?e=MHBypZ)
+  * <a href="DOCX/Testprotocol interview.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport interview.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/Informed consent interview.pdf" target="_blank">Informed Consent (PDF)</a>
 
 __Definition__
 * __Wave 1 gebruikerstesten__
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/Eb980PCmLEBCnWNDjG_flh8BfeC5139l5l0VIOIjY3vm0g?e=roBAXN)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EWpgg5un1oVDny0ijt7-1XgBJvvFsVy6mcjcF40fSneS1g?e=kaXiP6)
-  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EdSriIjsqNBFpWl6v9d3dGMBsB7fI7kc8Qbja1BooHT7Kg?e=hbgTDS)
+  * <a href="DOCX/Testprotocol wave 1.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport Wave 1.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/informed consent wave 1.pdf" target="_blank">Informed Consent (PDF)</a>
 * __Wave 2 gebruikerstesten__
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZ0a0e4UxSNAnWVUYQDnIiQB5WDNmhABZjaIjHXAPcsrmA?e=a14Cu0)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EZt7PyPyn0JHvj6A8d-wA8UBd1ZW62XhCz2g48GQjEiyYw?e=b9FzAo)
-  * [Informed Consent](https://ugentbe-my.sharepoint.com/:w:/g/personal/nand_decroo_ugent_be/EU2_0dEthc5DjmyXs7uG1icBKKj7tkdiknNRASXVH-6iDg?e=hdaQ1v)
+  * <a href="DOCX/Testprotocol wave 2.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport Wave 2.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/informed consent wave 2.pdf" target="_blank">Informed Consent (PDF)</a>
+
+__Develop__
+* __Develop 1__
+  * <a href="DOCX/Testprotocol D3.1.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport D3.1.pdf" target="_blank">Rapport (PDF)</a>
+* __Develop 2__
+  * <a href="DOCX/Testprotocol D4.2.pdf" target="_blank">Protocol (PDF)</a>
+  * <a href="DOCX/Rapport D4.2.pdf" target="_blank">Rapport (PDF)</a>
 
 ## Bronnen
 
