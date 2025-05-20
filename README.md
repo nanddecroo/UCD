@@ -172,6 +172,8 @@ Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de 
 ## 2.2 Develop 2
 Gedurende deze fase wordt gekeken naar de cognitieve ergonomie van het product. Daarbij wordt onderzocht in hoeverre de interface en de interactie logisch en begrijpelijk zijn voor de gebruiker. Het doel is dat het systeem gemakkelijk te gebruiken is, zonder dat het onnodig veel denkwerk vereist. Zo kan de gebruiker zich concentreren op de eigenlijke taak, zonder afgeleid te worden door onduidelijke bediening of verwarring over hoe het systeem werkt. Op die manier draagt de test bij aan een gebruiksvriendelijke, efficiënte en toegankelijke gebruikerservaring. 
 
+Ook wordt er nog een aanvullende analyse uitgevoerd om bijkomende inzichten te verwerven in de fysieke ergonomie.
+
 ### Doelstellingen
 Nagaan of de interface logisch en gebruiksvriendelijk is, zodat de gebruiker het systeem intuïtief kan bedienen zonder onnodige mentale inspanning. 
 
@@ -184,7 +186,8 @@ Nagaan of de interface logisch en gebruiksvriendelijk is, zodat de gebruiker het
 * Wizard-of-oz 
 * BERT-test 
 * Think aloud protocol (TAP) 
-* Error-analyse 
+* Error-analyse
+* Siemens NX human modelling
 
 ### Resultaten
 De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Elke van de 3 testen die worden afgenomen per respondent (N=4) bestaan steeds uit 3 dezelfde fases. Deze verschillen van prototype, die worden uitgelegd hieronder. 
@@ -206,8 +209,13 @@ In de tweede test blijft de taak dezelfde, maar wordt de interactie aangepast: i
 FOTO
 
 _Fase 3_
+
 In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fictieve vijfde fysieke knop onder het scherm. Deze interactie wordt gesimuleerd met behulp van de wizard-of-oz-methode, waarbij het scherm extern bestuurd wordt.
 FOTO
+
+_Aanvullende analyse_
+
+Hier wordt gebruik gemaakt van Siemens NX human modelling. Er wordt een vrouw van 79 jaar gesimuleerd. De opstelling is te zien op de afbeelding hieronder.
 
 __Test 1: Unguided test__
 
@@ -233,6 +241,10 @@ Ook na de guided test werd een BERT-test afgenomen.
 
 FOTO
 
+__Aanvullende analyse__
+
+
+
 ### Conclusies & implicaties
 
 
@@ -248,29 +260,40 @@ Het evalueren van de sensorische gebruikservaring, met focus op zichtbaarheid, c
 * Gebruikerstesten 
 * Ranking 
 ### Resultaten
-De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 2 testen waarvoor elk een prototype nodig is. 
+De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 3 testen waarvoor elk een prototype nodig is. 
 
 _Prototypes_
 
-Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kon een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en welke Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
+Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kon een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en de positie van de Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
 
 FOTO
 
-Het tweede prototype bestaat uit een 3D-geprint bakje met een veer, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Onderstaande afbeelding toont het prototype. 
+Het tweede prototype bestaat uit een 3D-geprint bakje met een veer, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Voor testen 2 en 3 zijn een aantal knoppen ontworpen. Onderstaande afbeelding toont het prototype. 
 
 FOTO
 
 __Test 1: Verlichting__
 
-Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. Uit deze feedback kon hetgeen geconcludeerd worden dat hieronder is afgebeeld. 
+Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. De verschillende varianten werden gerangschikt en er werd een gewicht toegekend van 1 tot en met 9. (Lage score = slecht, Hoge score = goed)
 
 FOTO
-__Test 2: Knoppen__
 
-Hiervoor worden 3 verschillende groottes van knoppen voorgelegd aan de respondent. Hieruit kon het volgende geconcludeerd worden: 
+__Test 2: Grootte knoppen__
+
+Hiervoor worden 3 verschillende knoppen getest. Knoppen met een diamater van 20 mm, 30 mm en 40 mm. De knoppen worden gerangschikt en er wordt een gewicht toegekend van 1 tot en met 3.
 
 FOTO
+
+__Test 3: Vorm knoppen__
+
+Tijdens deze test worden 5 verschillende knoppen getest. Ook hier worden de knoppen gerangschikt na het testen. Er wordt een gewicht van 1 t.e.m. 5 toegekend aan de knoppen afhankelijk van de rangschikking.
+
+FOTO
+
 ### Conclusies & implicaties
+Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen.
+
+Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
 
 ## Bill of materials
 - Dun hout voor de behuizing
