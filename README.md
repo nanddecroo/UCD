@@ -194,38 +194,46 @@ De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief ge
 
 _Prototypes_
 
-De basis blijft voor de verschillende testen hetzelfde, enkel bij de 3e test komt er een 5e fysieke knop bij. De verandering in het besturen van de console gebeurt d.m.v. Protopie via de smartphone die verbonden is aan het prototype.  
+De basis blijft voor de verschillende testen hetzelfde, enkel bij de derde test komt er een vijfde fysieke knop bij. De verandering in het besturen van de console gebeurt d.m.v. Protopie via de smartphone die verbonden is aan het prototype.  
+
+<img src="Afbeeldingen/d4.2prototype.jpg" alt="31test3" width="300">
 
 _Fase 1_
 
 In het eerste prototype verschijnt de melding “Klik op het scherm om te beginnen”, waarna de kleuren één voor één zichtbaar worden telkens er op het scherm wordt geklikt.
 
-FOTO
+<img src="Afbeeldingen/d4.2interface1.jpg" alt="31test3" width="600">
 
 _Fase 2_
 
 In de tweede test blijft de taak dezelfde, maar wordt de interactie aangepast: in plaats van op het scherm te tikken, moet de gebruiker op een knop in de hoek van het scherm drukken om naar de volgende kleur te gaan.
 
-FOTO
+<img src="Afbeeldingen/d4.2interface2.jpg" alt="31test3" width="600">
 
 _Fase 3_
 
 In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fictieve vijfde fysieke knop onder het scherm. Deze interactie wordt gesimuleerd met behulp van de wizard-of-oz-methode, waarbij het scherm extern bestuurd wordt.
-FOTO
+
+<img src="Afbeeldingen/d4.2interface3.jpg" alt="31test3" width="600">
 
 _Aanvullende analyse_
 
 Hier wordt gebruik gemaakt van Siemens NX human modelling. Er wordt een vrouw van 79 jaar gesimuleerd. De opstelling is te zien op de afbeelding hieronder.
 
+<img src="Afbeeldingen/D4.2NXopstelling.jpg" alt="31test3" width="300">
+
 __Test 1: Unguided test__
 
 Bij deze test komt de respondent in contact met de console zonder (extra) uitleg. Om te achterhalen hoe duidelijk de console is, worden zowel de tijd tot het voltooien van de volledige handeling als de fouten die de gebruiker tegenkomt gemeten. De gegevens worden weergegeven in de twee onderstaande tabellen en in de staafgrafiek. 
 
-FOTO
+<img src="Afbeeldingen/d4.2interactie1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/d4.2interactie2.jpg" alt="31test3" width="300">
+
+<img src="Afbeeldingen/D4.2tabeltest1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest1.jpg" alt="31test3" width="300">
+<img src="Afbeeldingen/D4.2tabelerrorstest1.jpg" alt="31test3" width="300">
 
 Na afloop van de test legden de deelnemers een BERT-test af en gaven ze hun voorkeur aan. De resultaten hiervan zijn te zien hieronder. 
 
-FOTO
+<img src="Afbeeldingen/D4.2berttest1.jpg" alt="31test3" width="300">
 
 __Test 2: Think aloud protocol (TAP)__
 
@@ -235,15 +243,18 @@ __Test 3: Guided test__
 
 Deze test komt overeen met de 1e test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
 
-FOTO
+<img src="Afbeeldingen/d4.2prototypfysieke knop.jpg" alt="31test3" width="300">
+
+<img src="Afbeeldingen/D4.2tabeltest2.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest2.jpg" alt="31test3" width="300">
+<img src="Afbeeldingen/D4.2tabelerrorstest2.jpg" alt="31test3" width="300">
 
 Ook na de guided test werd een BERT-test afgenomen. 
 
-FOTO
+<img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="300">
 
-__Aanvullende analyse__
+__Human modelling__
 
-
+<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300">
 
 ### Conclusies & implicaties
 
