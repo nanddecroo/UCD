@@ -241,7 +241,7 @@ Het TAP verliep niet zoals gehoopt. De ouderen vonden het moeilijk om tegelijker
 
 __Test 3: Guided test__
 
-Deze test komt overeen met de 1e test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
+Deze test komt overeen met de eerste test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
 
 <img src="Afbeeldingen/d4.2prototypfysieke knop.jpg" alt="31test3" width="300">
 
@@ -254,7 +254,7 @@ Ook na de guided test werd een BERT-test afgenomen.
 
 __Human modelling__
 
-<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300">
+<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="300">
 
 ### Conclusies & implicaties
 
