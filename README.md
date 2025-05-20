@@ -277,29 +277,36 @@ _Prototypes_
 
 Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kon een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en de positie van de Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
 
-FOTO
+<img src="Afbeeldingen/D5.3prototype1.jpg" alt="31test3" width="450">
 
 Het tweede prototype bestaat uit een 3D-geprint bakje met een veer, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Voor testen 2 en 3 zijn een aantal knoppen ontworpen. Onderstaande afbeelding toont het prototype. 
 
-FOTO
+<img src="Afbeeldingen/D5.3prototype2.jpg" alt="31test3" width="450">
 
 __Test 1: Verlichting__
 
 Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. De verschillende varianten werden gerangschikt en er werd een gewicht toegekend van 1 tot en met 9. (Lage score = slecht, Hoge score = goed)
 
-FOTO
+<img src="Afbeeldingen/D5.3uitvoering1.jpg" alt="31test3" width="450">
+
+<img src="Afbeeldingen/D5.3tabel1.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3tabel1.2.jpg" alt="31test3" width="300">
+<img src="Afbeeldingen/D5.3diagram1.jpg" alt="31test3" width="300">
 
 __Test 2: Grootte knoppen__
 
 Hiervoor worden 3 verschillende knoppen getest. Knoppen met een diamater van 20 mm, 30 mm en 40 mm. De knoppen worden gerangschikt en er wordt een gewicht toegekend van 1 tot en met 3.
 
-FOTO
+<img src="Afbeeldingen/D5.3knoppentest2.jpg" alt="31test3" width="450">
+
+<img src="Afbeeldingen/D5.3tabel2.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram2.jpg" alt="31test3" width="300">
 
 __Test 3: Vorm knoppen__
 
 Tijdens deze test worden 5 verschillende knoppen getest. Ook hier worden de knoppen gerangschikt na het testen. Er wordt een gewicht van 1 t.e.m. 5 toegekend aan de knoppen afhankelijk van de rangschikking.
 
-FOTO
+<img src="Afbeeldingen/D5.3knoppentest3.jpg" alt="31test3" width="450"><img src="Afbeeldingen/D5.3uitvoering3.jpg" alt="31test3" width="450">
+
+<img src="Afbeeldingen/D5.3tabel3.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram3.jpg" alt="31test3" width="300">
 
 ### Conclusies & implicaties
 Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen.
@@ -346,8 +353,7 @@ __Negatieve aspecten/werkpunten__
 
 4. Duidelijkheid van het prototype
 
-   Sommige prototypes waren niet duidelijk. Zo werd met kleur gewerkt, waarbij 2 kleuren op elkaar leken. Dit maakte het voor de gebruiker moeilijker ondanks dit niet de bedoeling was. Dit voorval had een     
-   negatief effect op de testen. 
+   Sommige prototypes waren niet duidelijk. Zo werd met kleur gewerkt, waarbij 2 kleuren op elkaar leken. Dit maakte het voor de gebruiker moeilijker ondanks dit niet de bedoeling was. Dit had vooral een negatief effect op de testen. 
 
 __Conclusie__ 
 
