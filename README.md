@@ -3,20 +3,22 @@
 
 *Projectteam: De Waele Briek; De Croo Nand*
 
-08/01/2025
+18/06/2025
 ## Samenvatting
 Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en een verminderende cognitieve functie. Dit is onderzocht aan de hand van literatuurstudie en interviews. De conclusie hieruit is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
 
-De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. Deze oplossing wordt ontwikkeld door middel van verschillende gebruikerstests uit de 2 waves van het eerste semester. Voordat deze tests plaatsvinden, worden prototypes ontworpen op basis van de voorafgaande onderzoeken. 
+De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. 
 
 <img src="Afbeeldingen/schets.jpg" alt="SCHETS" width="500">
 
 ## Introductie
 Het project is vetrokken uit de design challenge “Healthy Aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
-Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe [^1]. Met dit probleem werd in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. Het project is gebaseerd op het onthouden van één of meerdere combinaties.
+Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe [^1]. Met dit probleem wordt in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. 
 
-Hierbij wordt als combinatie kleuren gebruikt. Die kleuren worden getoond d.m.v. een scherm. Na de combinatie gezien te hebben moet de combinatie correct worden ingegeven d.m.v. gekleurde knoppen. De cognitieve oefening kan gespeeld worden op verschillende niveaus. Zo kan er gevarieerd worden met de visualisatie van de kleurencombinatie. De duur van elke kleur kan zo korter/langer zichtbaar gemaakt worden, of ze kiezen de duur door zelf het scherm te besturen. Ook kan er met de knoppen gevarieerd worden. Deze kunnen op voorhand of slechts een beperkte tijd zichtbaar zijn. Ook het aantal kleuren (= aantal knoppen) kan aangepast worden aan de gebruiker. Deze parameters zorgen ervoor dat elke gebruiker met deze cognitieve oefening wordt uitgedaagd. 
+Een techniek die hedendaags wordt gebruikt om cognitieve achteruitgang tegen te gaan is de Ronnie Gardiner Methode (RGM). Het is een multi-sensorische oefenmethode. Er wordt muziek en ritme ingezet om meerdere gebieden van de hersenen te stimuleren.
+
+Het project is gebaseerd op het onthouden van één of meerdere combinaties. Hierbij wordt als combinatie kleuren gebruikt. Die kleuren worden getoond d.m.v. een scherm. Na de combinatie gezien te hebben moet de combinatie correct worden ingegeven d.m.v. gekleurde knoppen. De cognitieve oefening kan gespeeld worden op verschillende niveaus. Zo kan er gevarieerd worden met de visualisatie van de kleurencombinatie. De duur van elke kleur kan zo korter/langer zichtbaar gemaakt worden, of ze kiezen de duur door zelf het scherm te besturen. Ook kan er met de knoppen gevarieerd worden. Deze kunnen op voorhand of slechts een beperkte tijd zichtbaar zijn. Ook het aantal kleuren (= aantal knoppen) kan aangepast worden aan de gebruiker. Deze parameters zorgen ervoor dat elke gebruiker met deze cognitieve oefening wordt uitgedaagd. 
 
 Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuele perceptie getraind en actief gehouden. Dit veroorzaakt de vertraging van de cognitieve achteruitgang van het brein. De belangrijkste randvoorwaarden hierbij zijn: 
 
@@ -25,25 +27,33 @@ Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuel
 * Aanpasbaar niveau 
 * Veiligheid 
 ## Methodologie
-Als weergave van de methodologie werd de methode van de ‘Double Diamond’ toegepast. Deze methode bestaat uit 4 fasen die hieronder worden uitgelegd. 
+Als weergave van de methodologie werd een variant op de methode van de ‘Double Diamond’ toegepast. Deze methode laat toe om meerdere keren te divergeren en convergeren. Er wordt gewerkt in verschillende fases.
 
-__Fase 1__
+<img src="Afbeeldingen/tijdlijn.jpg" alt="diamond" width="1000">
 
-Het project begon met de keuze van design challenge, dat uiteindelijk ‘Healty Aging’ werd. Om meer te weten over dit onderwerp werd research gedaan naar de problemen bij de gekozen doelgroep. Ook werd meer kennis opgedaan door interviews, met zowel de gebruiker als met 2 ervaringsdeskundigen, en een literatuurstudie. Hierdoor kon men ideeën ontwikkelen en divergerend gaan brainstormen. 
+__Discovery__
 
-__Fase 2__
+Tijdens de discovery fase werd research gedaan naar het onderwerp en de doelgroep. Ook werd meer kennis opgedaan door interviews, met zowel de gebruiker als met 3 ervaringsdeskundigen, en een literatuurstudie. Hierdoor werd er divergerend gebrainstormd en konden ideeën ontwikkeld worden. De ideeën worden geconvergeerd tot een concept dat gepitcht wordt. 
 
-In deze fase is het de bedoeling dat er een tijdelijk concept bedacht wordt door de eerder bedachte concepten (fase 1) te gaan convergeren. Die wordt dan gepresenteerd d.m.v. een pitch 
+__Definition__
 
-__Fase 3__
+In het begin van de definition fase wordt gedivergeerd om verschillende concepten te testen. In twee waves worden verschillende prototypes getest om het concept te valideren. Door de testen worden probleempunten duidelijk en kunnen conclusies getrokken worden.  Hierdoor wordt geconvergeerd naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
 
-Na de pitch werd een team samengesteld en werd voor het gekozen concept gebrainstormd en opnieuw gedivergeerd. Hiervoor werden in 2 waves verschillende prototypes gemaakt die vervolgens getest werden door de gekozen doelgroep (N=5).  
+__Develop 1__
 
-__Fase 4__
+Tijdens de eerste development fase wordt de fysieke ergonomie van het product onderzocht. Hier wordt er aandacht besteed aan de vorm van het product. Er worden verschillende prototypes getest.
 
-Door de testen werden probleempunten duidelijk en konden conclusies getrokken worden.  Hierdoor werd geconvergeerd naar 1 idee die wordt voorgesteld in het storyboard. Deze fase eindigt met de presentatie.
+__Develop 2__
 
-<img src="Afbeeldingen/doublediamond%20(1).jpg" alt="diamond" width="700">
+In de tweede development fase wordt de cognitieve ergonomie onder de loep genomen. Drie interfaces worden getest. Ook worden aanvullende tests uitgevoerd in verband met de fysieke ergonomie. Hiervoor wordt Siemens NX Human Modelling gebruikt.
+
+__Develop 3__
+
+Tijdens de derde development fase wordt de sensoriële ergonomie getest. Er worden testen gedaan i.v.m. LED's en knoppen. Hier worden de details verfijnd.
+
+__Delivery__
+
+Het finale design ligt vast en een prototype wordt uitgewerkt.
 
 ## 1.1 Discovery
 ### Doestellingen
@@ -312,6 +322,48 @@ Tijdens deze test worden 5 verschillende knoppen getest. Ook hier worden de knop
 Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen.
 
 Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
+## Conclusie
+|Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
+|---|---|---|---|---|
+|0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
+|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|<details><summary>In Progress</summary><br>Hier werd rekening mee gehouden voor het finale resultaat, door bijvoorbeeld in kunsstof te werken maar kan nog verder onderzocht worden.|
+|**1 Interface leerlingen**|
+|1.1 Algemeen|
+|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden. Tijdens develop 3 werd deze DR bevestigd.</details>|
+|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|<details><summary>OK</summary><br>Getest in develop 1 en 3 door feedback en microinteractions toe te voegen aan de interface.</details>|
+|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|<details><summary>OK</summary><br>Getest en bevestigd in develop 3 door de fly on the wall observatie.</details>|
+|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden. Het finale resultaat zal nog kleiner zijn dan de prototypes omdat de elektronica campacter gemaakt kan worden.</details>|
+|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|<details><summary>In progress</summary><br>Tijdens het testen in de develop 3 fase is een bakje gevallen en was deze niet kapot. Bij het einresultaat is het belangrijk dat het materiaal niet te bros is en dat alles goed vast zit.</details>|
+|1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in prototypes 1 en 2 van wave 1 en het prototype van wave 2 door een klepje toe te voegen. Hierdoor kunnen anderen moeilijker meekijken met wat de leerling aanduid.</details>|
+|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>De prototypes uit develop 3 maakten geen geluid wanneer een emotie werd aangeklinkt. Ook dem feedback en microinteractions maken geen gebruik van geluid.</details>|
+|1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
+|1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
+|1.2 Learnability|
+|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
+|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
+|1.3 Gebruiksgemak|
+|1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
+|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
+|**2 Leerkrachten fysieke interface**|
+|2.1 Algemeen|
+|2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|<details><summary>OK</summary><br>Tijdens de develop 1 en develop 3 fase werd bevesitgd door de leerkrachten maar ook door de observatie dat ze geen moeite hadden met het lezen van deze interface.</details>|
+|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|<details><summary>OK</summary><br>Dit werd geïmplementeerd in develop 1. Hieruit bleek dat de verandering van kleur bij een emotie genoeg de aandacht van de leerkracht trekt.</details>|
+|2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (wave 1 en wave 2) door ze compact en draadloos te houden.</details>|
+|2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Wordt geïmplementeerd in prototypes 1 en 3 van wave 1 door extra stukken toe te voegen aan de interface en in het prototype van wave 2 door te werken met een scherm waar verschaald kan worden om zo meer of minder leerlingen af te beelden.</details>|
+|2.1.5|De interface leid de leerlingen niet af|Develop 1|25/03/2025|<details><summary>OK</summary><br>Werd verder onderzocht in develop 3 en er is beslist om geen namen toe te voegen op de interface</details>|
+|2.2 Visualisatie|
+|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven met namen. Later werd in develop 3 bevestigd dat het voor de leerkrachten zeer makkelijk is om op het prototype van deze fase de emoties van de leerlingen af te lezen.</details>|
+|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|OK|
+|**3 Leerkrachten app**|
+|3.1 Algemeen|
+|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|<details><summary>In progress</summary><br>Dit was aanwezig in de apps van de define en develop 2 fase. De tips zouden wel nog moeten uitgewerkt worden door een specialist.</details>|
+|3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|<details><summary>OK</summary><br> Dit wordt geïmplementeerd in de app van wave 1 en wave 2 door een overzicht te geven van welke emoties welke leerling heeft. Hierdoor kan de leerkracht vanop haar GSM kijken wie welke emotie ervaart.</details>|
+|3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|<details><summary>OK</summary><br> Dit werd gevalideerd in wave 2 door het genoeg maar niet te veel informatie af te beelden.</details>|
+|3.2 Visualistatie|
+|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde. In develop 2 werd dit verder uitgewerkt.</details>|
+|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app en is aanwezig in de finale versie.</details>|
+|3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
+|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
 
 ## Bill of materials
 - Dun hout voor de behuizing
