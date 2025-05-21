@@ -22,14 +22,14 @@ Het project is gebaseerd op het onthouden van één of meerdere combinaties. Hie
 
 Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuele perceptie getraind en actief gehouden. Dit veroorzaakt de vertraging van de cognitieve achteruitgang van het brein. De belangrijkste randvoorwaarden hierbij zijn: 
 
-* Gebruiksvriendelijk 
-* Vermakelijk 
-* Aanpasbaar niveau 
-* Veiligheid 
+* Gebruiksvriendelijk: De gebruikers moet zich comfortabel voelen tijdens de interactie met het product.
+* Vermakelijk: De gebruiker mag zich niet vervelen.
+* Aanpasbaar niveau: Het product openstellen voor mensen van verschillende niveaus om het uitsluiten van mensen te beperken.
+* Veiligheid: De doelgroep zijn ouderen. Het is een kwetsbare groep. Scherpe randen vermijden.
 ## Methodologie
 Als weergave van de methodologie werd een variant op de methode van de ‘Double Diamond’ toegepast. Deze methode laat toe om meerdere keren te divergeren en convergeren. Er wordt gewerkt in verschillende fases.
 
-<img src="Afbeeldingen/tijdlijn.jpg" alt="diamond" width="1000">
+<img src="Afbeeldingen/tijdlijngoed.jpg" alt="diamond" width="1000">
 
 __Discovery__
 
@@ -228,7 +228,7 @@ In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fict
 
 _Aanvullende analyse_
 
-Hier wordt gebruik gemaakt van Siemens NX human modelling. Er wordt een vrouw van 79 jaar gesimuleerd. De opstelling is te zien op de afbeelding hieronder.
+Hier wordt gebruik gemaakt van Siemens NX human modelling. Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld lager leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
 
 <img src="Afbeeldingen/D4.2NXopstelling.jpg" alt="31test3" width="300">
 
@@ -263,6 +263,8 @@ Ook na de guided test werd een BERT-test afgenomen.
 <img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="300">
 
 __Human modelling__
+
+In deze aanvullende test wordt gekeken hoe ver een gemiddelede vrouw van 79 jaar oud kan uitreiken. Ook wordt gekeken naar het comfortgevoel in de armen omdat deze het meest belast worden.
 
 <img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="300">
 
