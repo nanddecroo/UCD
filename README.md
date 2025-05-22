@@ -130,17 +130,17 @@ Tijdens de definitiefase worden mogelijke oplossingen onderzocht en geëvalueerd
 ### Resultaten
 De concepten worden geëvalueerd aan de hand van gebruikerstesten. Dit gebeurt met gebruikers uit de doelgroep die we voor ogen hebben. Op deze manier kunnen we tijdens de interactie problemen of moeilijkheden observeren. 
 
-__WAVE 1__ 
+__WAVE 1 (N=5)__ 
 
-De drie prototypes worden in een willekeurige volgorde getest en achter wordt de scorematrix ingevuld.
+De drie prototypes worden in een willekeurige volgorde getest en achteraf wordt de scorematrix ingevuld. Prototype 3 is te makkelijk. Prototype 1 en 2 halen een gelijkaardig niveau. Op het aspect plezier haalt prototype 1 de beste score.
 
 <p align="center">
 <img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="400"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="400"> 
 </p>
 
-__WAVE 2__
+__WAVE 2 (N=5)__
 
-Uit de eerste gebruikerstest wordt een concept geselecteerd om op verder te bouwen. Tijdens deze gebruikerstest ligt de focus op de interactie met het prototype. De drie prototypes worden weer in een willekeurige volgorde getest. Achteraf worden de scorematrices ingevuld.
+Uit de eerste gebruikerstest wordt een concept geselecteerd om op verder te bouwen. Tijdens deze gebruikerstest ligt de focus op de interactie met het prototype. De drie prototypes worden weer in een willekeurige volgorde getest. Achteraf worden de scorematrices ingevuld. Prototype 3, waar de combinatie zelf bediend wordt, scoort het best op gebruiksvriendelijkheid. Prototype 2 wordt te moeilijk bevonden. Prototype 1 en 3 halen een gelijkaardig niveau.
 
 <p align="center">
 <img src="Afbeeldingen/Gebruiksvriendelijk.jpg" alt="matrix 3" width="400"> <img src="Afbeeldingen/Moeilijkheid2.jpg" alt="matrix 4" width="400"> 
@@ -179,54 +179,97 @@ __Conclusies__
 2. De gebruiker kan zelf de kleurencombinatie bedienen.
 3. De knoppen moeten duidelijk angeduid zijn.
 4. Het moet duidelijk zijn wanneer de knoppen moeten ingedrukt worden.
-## 2.1 Develop 1
+## 2.1 Develop 1: Fysieke ergonomie
 Tijdens deze fase wordt de fysieke ergonomie onderzocht. Dit is een belangrijk onderdeel aangezien senioren minder flexibel en bewegelijk zijn. De focus ligt vooral op de schouder, bovenarm en nek omdat de beze delen het meest belast worden.
 
 ### Doelstellingen
 Met deze test worden de dimensies en de vorm van het product bepaald. Er worden ook inzichten verworven over de bewegelijkheid van senioren. 
 
 ### Materiaal & methoden
-* Prototype uit hout 
-* Prototypes uit karton  
-* Gebruikerstesten 
-* Gebruikersinterviews
-* BERT-test
+* __Gebruikerstesten (N=4)__
+
+_Test 1_
+
+Met deze test wordt de vorm van het product bepaalt. De knoppen worden telkens in een andere vorm geplaatst. Hiervoor zijn drie prototypes gemaakt. Prototype 1 heeft de vorm van een balk en heeft vier knoppen. Prototype 2 heeft de vorm van een vierkant. Het laatste prototype heeft de vorm van boog. Op de prototypes staan lijnen met daarop gekleurde schijfjes als voorstelling van een knop. Telkens wordt gevraagd aan de respondent om de schijfjes te verschuiven volgens de richting van de lijnen. Na de test wordt de BERT-test ingevuld.
+
+<p align="center">
+<img src="Afbeeldingen/d3.1_invulbert.jpg" alt="bert" width="300">
+</p>
+
+_Test 2_
+
+Tijdens test 2 verschuift de respondent een schijfje tot zijn of haar ideale afstand waar de schouder en arm het meest comfortabel aanvoelen. Vervolgens wordt de afstand opgemeten. Hiermee wordt een beeld geschept over de bewegelijkheid van de senioren.
+
+_Test 3_
+
+Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat. Dit wordt drie keer herhaald om een nauwkeuriger resultaat te bekomen
+
+* __Prototypes test 1:__ Er zijn drie prototypes uit karton gemaakt in verschillende vormen. Er is gekozen voor karton omdat het eenvoudige prototypes zijn. Er zijn 4 schijfjes voorzien die de knoppen voorstellen.
+
+<p align="center">
+<img src="Afbeeldingen/3protos.jpg" alt="protosd31test1" width="500">
+</p>
+
+* __Prototype test 2:__ Het prototype is uit karton gemaakt. Er staat één lijn op in de lengte. 
+
+<p align="center">
+<img src="Afbeeldingen/d3.1_test2.jpg" alt="31test2" width="300">
+</p>
+
+* __Prototype test 3:__ Het is een houten prototype omdat dit stevig genoeg moet zijn om een smartphone te dragen. Door middel van een scharnier kan het scherm roteren.
+
+<p align="center">
+<img src="Afbeeldingen/d3.1_test3.jpg" alt="31test3" width="300"> 
+</p>
+
+* __BERT-test test 1:__ Er wordt gescoord van "oncomfortabel" tot "comfortabel" voor zowel de schouder als de bovenarm.
 
 ### Resultaten
 De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zijn. Er worden tijdens deze fase 3 testen afgenomen per respondent (N=4).
 
 __Test 1__
 
-Met deze test wordt de vorm van het product bepaalt. De knoppen worden telkens in een andere vorm geplaatst. Hiervoor zijn drie prototypes gemaakt. Prototype 1 heeft de vorm van een balk en heeft vier knoppen. Prototype 2 heeft de vorm van een vierkant. Het laatste prototype heeft de vorm van boog. Op de prototypes staan lijnen met daarop gekleurde schijfjes als voorstelling van een knop. Telkens wordt gevraagd aan de respondent om de schijfjes te verschuiven volgens de richting van de lijnen. Na de test wordt de BERT-test ingevuld.
+Prototype 3 scoort het best op de BERT-test. 
 
-<img src="Afbeeldingen/3protos.jpg" alt="protosd31test1" width="300"> <img src="Afbeeldingen/d3.1_invulbert.jpg" alt="bert" width="300"> <img src="Afbeeldingen/d3.1_bertingevuld.jpg" alt="bertresult" width="300">
-
+<p align="center">
+<img src="Afbeeldingen/d3.1_bertingevuld.jpg" alt="bertresult" width="300">
+</p>
 
 __Test 2__
 
-Tijdens test 2 verschuift de respondent een schijfje tot zijn of haar ideale afstand waar de schouder en arm het meest comfortabel aanvoelen. Vervolgens wordt de afstand opgemeten. Hiermee wordt een beeld geschept over de bewegelijkheid van de senioren.
+De gemiddelde afstand ligt op 27,7 centimeter.
 
-<img src="Afbeeldingen/d3.1_test2.jpg" alt="31test2" width="300"> <img src="Afbeeldingen/d3.1_test2result.jpg" alt="31test2resul" width="300">
-
+<p align="center">
+<img src="Afbeeldingen/d3.1_test2result.jpg" alt="31test2resul" width="300">
+</p>
 
 __Test 3__
 
-Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat.
+Het gemiddelde van de gemeten hoeken is 65 graden.
 
-<img src="Afbeeldingen/d3.1_test3.jpg" alt="31test3" width="300"> <img src="Afbeeldingen/d3.1_test3result.jpg" alt="31test3resul" width="300">
-
+<p align="center">
+<img src="Afbeeldingen/d3.1_test3result.jpg" alt="31test3resul" width="300">
+</p>
 
 ### Conclusies & implicaties
-#### Vorm van het toestel:
+__Vorm van het toestel:__
+
 De gebogen vorm werd het best beoordeeld in de BERT-test, omdat die het minst belastend is voor het lichaam. Daarom wordt er gekozen voor die vorm in het uiteindelijke ontwerp.
 
-#### Afstand tot de knop:
+__Afstand tot de knop:__
+
 De gemiddelde ideale afstand tussen gebruiker en knop werd vastgesteld op 27,7 cm. Knoppen worden op deze afstand geplaatst om een vlotte en comfortabele bediening mogelijk te maken.
 
-#### Hoek van het scherm:
+__Hoek van het scherm:__
+
 De optimale schermhoek is bepaald op 65 graden. Het scherm wordt onder deze hoek gepositioneerd om leesbaarheid te garanderen zonder visuele of fysieke belasting.
 
-## 2.2 Develop 2
+__Conclusies__
+
+1. De knoppen moeten makkelijk bereikbaar zijn.
+2. De bediening van de knoppen mag geen ongemak veroorzaken bij de gebruiker.
+3. De positionering van het scherm mag geen ongemak veroorzaken in de nek.
+## 2.2 Develop 2: Cognitieve ergonomie
 Gedurende deze fase wordt gekeken naar de cognitieve ergonomie van het product. Daarbij wordt onderzocht in hoeverre de interface en de interactie logisch en begrijpelijk zijn voor de gebruiker. Het doel is dat het systeem gemakkelijk te gebruiken is, zonder dat het onnodig veel denkwerk vereist. Zo kan de gebruiker zich concentreren op de eigenlijke taak, zonder afgeleid te worden door onduidelijke bediening of verwarring over hoe het systeem werkt. Op die manier draagt de test bij aan een gebruiksvriendelijke, efficiënte en toegankelijke gebruikerservaring. 
 
 Ook wordt er nog een aanvullende analyse uitgevoerd om bijkomende inzichten te verwerven in de fysieke ergonomie.
