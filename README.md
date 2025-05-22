@@ -364,49 +364,29 @@ Tijdens dit project werd een spelconsole ontwikkeld met als doel ouderen mentaal
 Bij het ontwerp werd rekening gehouden met verschillende ergonomische en gebruiksvriendelijke aspecten. Er werd geëxperimenteerd met de vorm, plaats en grootte van de knoppen, de hoek van het scherm, en het verschil tussen fysieke en digitale bediening. Deze keuzes zijn telkens getest met eenvoudige prototypes, gebruik makend van Arduino en Protopie.
 
 Hoewel niet alle geplande functies – zoals het gebruik van vormen, speelmogelijkheden met meerdere personen of data-opslag voor zorgprofessionals – konden worden uitgewerkt, biedt het project een goede basis voor verdere ontwikkeling. De testresultaten gaven nuttige inzichten in de noden van de doelgroep en kunnen dienen als richtlijn voor toekomstige iteraties of toepassingen binnen zorgomgevingen.
+### Product Requirements 
+Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvereisten. Deze zijn afgeleid uit een combinatie van bronnen, waaronder literatuuronderzoek en gebruikerstesten. Hierbij staat steeds een opmerking, waarin vermeld staat hoe daarmee rekening is gehouden in dit project.
+| Nr. | Requirement | Bron | Opmerking |
+|--------|-------------|------|-----------|
+| **1. Gebruiksvriendelijkheid** ||||
+| **1.1** | **Eenvoudige interface:** De interface mag enkel de noodzakelijke elementen tonen die nodig zijn voor het spelverloop. | Het volledige project | Er wordt steeds gekozen voor zo weinig mogelijk elementen die voor onduidelijkheid kunnen zorgen. |
+| **1.2** | **Visueel ontwerp:** De visuele elementen (kleuren en tekst) moeten voldoende contrast hebben en goed zichtbaar zijn voor ouderen. | Wave 1 & 2 | Hiervoor werden de 4 minst op elkaar lijkende kleuren gekozen. |
+| **1.3** | **Eenduidige feedback:** Het systeem moet duidelijke en onmiddellijke feedback geven na elke gebruikersactie. | Develop 5.3 | Feedback wordt versterkt door steeds de led van bijhorende knop extra op te laten lichten. |
+| **1.4** | **Tekst:** De tekst in de interface moet eenvoudig en duidelijk zijn of vermeden via symbolen. | Develop 4.2 | De tekst die wordt weergegeven moet kort zijn en in groot lettertype. Indien de tekst te lang is en klein, wordt dit niet goed gelezen. |
+| **1.5** | **Fysiek ergonomisch:** De knoppen moeten groot genoeg zijn, voldoende van elkaar gescheiden en makkelijk bereikbaar met beperkte reikwijdte. | Develop 3.1 & 5.3 | Het bereik van de arm (27,7 cm) en de hoek van het scherm (65°) worden bepaald door simulatie in Siemens NX. De grootte van de knop wordt bepaald door interactie met de gebruikers, die de grootste verkiezen. |
+| **2. Cognitieve belasting** ||||
+| **2.1** | **Aanpasbare moeilijkheidsgraad:** Het systeem moet ondersteuning bieden voor verschillende moeilijkheidsniveaus. | / | Momenteel niet volledig geïmplementeerd, maar voorzien in het ontwerp. |
+| **2.2** | **Herkenning:** De gebruiker moet taken kunnen uitvoeren op basis van herkenning van eerder getoonde informatie. | Develop 5.3 | De gebruiker hoeft de kleurenvolgorde niet te onthouden, enkel te herkennen. |
+| **2.3** | **Overzichtelijke interface:** De interface moet overzichtelijk zijn en de gebruiker stap voor stap begeleiden in het gebruik. | Develop 5.3 | Bij elke stap krijgt de gebruiker uitleg over wat hij moet doen, zodat het gebruik altijd helder blijft en er geen verwarring ontstaat. |
+| **3. Beleving** ||||
+| **3.1** | **Verbondenheid:** Het spel moet een gevoel van verbondenheid oproepen: door samen te spelen. | / |  |
+| **3.2** | **Stimulerend aspect:** Feedback bij succes moet motiverend en positief zijn, zodat gebruikers worden aangemoedigd. | Develop 5.3 | Wanneer de volgorde correct wordt ingevoerd, krijgt de gebruiker positieve feedback. Bij een fout wordt hij aangemoedigd om opnieuw te proberen, zodat de ervaring motiverend blijft. |
+| **3.3** | **Plezier:** Het systeem moet ontworpen zijn om plezier te brengen. De gebruiker moet zich geprikkeld voelen om verder te spelen, niet omdat het moet, maar omdat het leuk is. | Wave 1 | De respondenten testen verschillende opties en geven aan welke hen het meeste plezier gaf. Op basis daarvan werd het ontwerp waar mogelijk verder aangepast. |
+| **4. Gezondheid** ||||
+| **4.1** | **Mentale stimulatie:** Het spel moet ontworpen zijn om het geheugen, de aandacht en het concentratievermogen van ouderen op een laagdrempelige manier te stimuleren. | Literatuurstudie | Wetenschappelijke studies tonen aan dat geheugenspelletjes cognitieve achteruitgang bij ouderen kunnen vertragen. |
+| **4.2** | **Analyseren:** Het systeem moet op termijn data kunnen bijhouden over het gebruik, zodat deze geëvalueerd kunnen worden door externen zoals zorgverleners. | / |  |
+| **4.3** | **Vermijden van overbelasting:** Fysieke handelingen bij het gebruik mogen niet leiden tot overbelasting, en moeten voldoende motorische prikkels geven om beweging te stimuleren. | Develop 5.3 | Door gebruikerstesten en simulaties in Siemens NX werd nagegaan hoe ver gebruikers kunnen reiken. Op basis daarvan kan de fysieke belasting beperkt worden door een slimme en doordachte plaatsing van knoppen en scherm. |
 
-
-|Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
-|---|---|---|---|---|
-|0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
-|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|<details><summary>In Progress</summary><br>Hier werd rekening mee gehouden voor het finale resultaat, door bijvoorbeeld in kunsstof te werken maar kan nog verder onderzocht worden.|
-|**1 Interface leerlingen**|
-|1.1 Algemeen|
-|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden. Tijdens develop 3 werd deze DR bevestigd.</details>|
-|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|<details><summary>OK</summary><br>Getest in develop 1 en 3 door feedback en microinteractions toe te voegen aan de interface.</details>|
-|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|<details><summary>OK</summary><br>Getest en bevestigd in develop 3 door de fly on the wall observatie.</details>|
-|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden. Het finale resultaat zal nog kleiner zijn dan de prototypes omdat de elektronica campacter gemaakt kan worden.</details>|
-|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|<details><summary>In progress</summary><br>Tijdens het testen in de develop 3 fase is een bakje gevallen en was deze niet kapot. Bij het einresultaat is het belangrijk dat het materiaal niet te bros is en dat alles goed vast zit.</details>|
-|1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in prototypes 1 en 2 van wave 1 en het prototype van wave 2 door een klepje toe te voegen. Hierdoor kunnen anderen moeilijker meekijken met wat de leerling aanduid.</details>|
-|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>De prototypes uit develop 3 maakten geen geluid wanneer een emotie werd aangeklinkt. Ook dem feedback en microinteractions maken geen gebruik van geluid.</details>|
-|1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
-|1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
-|1.2 Learnability|
-|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
-|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
-|1.3 Gebruiksgemak|
-|1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
-|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
-|**2 Leerkrachten fysieke interface**|
-|2.1 Algemeen|
-|2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|<details><summary>OK</summary><br>Tijdens de develop 1 en develop 3 fase werd bevesitgd door de leerkrachten maar ook door de observatie dat ze geen moeite hadden met het lezen van deze interface.</details>|
-|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|<details><summary>OK</summary><br>Dit werd geïmplementeerd in develop 1. Hieruit bleek dat de verandering van kleur bij een emotie genoeg de aandacht van de leerkracht trekt.</details>|
-|2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (wave 1 en wave 2) door ze compact en draadloos te houden.</details>|
-|2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Wordt geïmplementeerd in prototypes 1 en 3 van wave 1 door extra stukken toe te voegen aan de interface en in het prototype van wave 2 door te werken met een scherm waar verschaald kan worden om zo meer of minder leerlingen af te beelden.</details>|
-|2.1.5|De interface leid de leerlingen niet af|Develop 1|25/03/2025|<details><summary>OK</summary><br>Werd verder onderzocht in develop 3 en er is beslist om geen namen toe te voegen op de interface</details>|
-|2.2 Visualisatie|
-|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven met namen. Later werd in develop 3 bevestigd dat het voor de leerkrachten zeer makkelijk is om op het prototype van deze fase de emoties van de leerlingen af te lezen.</details>|
-|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|OK|
-|**3 Leerkrachten app**|
-|3.1 Algemeen|
-|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|<details><summary>In progress</summary><br>Dit was aanwezig in de apps van de define en develop 2 fase. De tips zouden wel nog moeten uitgewerkt worden door een specialist.</details>|
-|3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|<details><summary>OK</summary><br> Dit wordt geïmplementeerd in de app van wave 1 en wave 2 door een overzicht te geven van welke emoties welke leerling heeft. Hierdoor kan de leerkracht vanop haar GSM kijken wie welke emotie ervaart.</details>|
-|3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|<details><summary>OK</summary><br> Dit werd gevalideerd in wave 2 door het genoeg maar niet te veel informatie af te beelden.</details>|
-|3.2 Visualistatie|
-|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde. In develop 2 werd dit verder uitgewerkt.</details>|
-|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app en is aanwezig in de finale versie.</details>|
-|3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
-|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
 
 ## Bill of materials
 - Dun hout voor de behuizing
