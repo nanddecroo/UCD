@@ -57,26 +57,25 @@ Het finale design ligt vast en een prototype wordt uitgewerkt.
 
 ## 1.1 Discovery
 ### Doestellingen
-Een belangrijke doelstelling was het bestuderen van het probleem, d.m.v. interviews en literatuur, om zo zich te hebben op het probleem en een oplossing te gaan bedenken. Wat ook een doelstelling was, was het convergeren van de verschillende concepten naar 1 gekozen concept. Dit werd bekomen door de concepten te gaan uitwerken d.m.v. prototypes. Vervolgens werden deze prototypes in contact gebracht met de doelgroep van dit project. Zo kon het gedrag van de gebruiker onderzocht worden, wat ook een doelstelling was dit semester.  
+Een belangrijke doelstelling is het bestuderen van het probleem, d.m.v. interviews en literatuur, om zo zicht te hebben op het probleem en een oplossing te gaan bedenken. 
 ### Materiaal & methoden
 De gebruikte methodes waren: 
 
-* Interview met ervaringsdeskundige 
+* __Interview met ervaringsdeskundige (N=3)__: Er worden interviews afgenomen met een ervaringsdeskundigen die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise is handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen.
 
-* Literatuurstudie
+* __Literatuurstudie (N=10)__: Aan de hand van literatuurstudie wordt onderzocht welke activiteiten een impact hebben op cognitie. Er wordt onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen.
 ### Resultaten
-__Interview met ervaringsdeskundige (N= 3)__
+__Interview met ervaringsdeskundige__
 
-Er werden interviews afgenomen met een ervaringsdeskundigen die diepgaande kennis heeft over de motoriek en het samenwerken van hersenhelften, om die zo te gaan stimuleren. Die expertise was handig om de context verder te verduidelijken en de informatie uit de interviews met de doelgroep te verrijken en te onderbouwen. 
+Uit de interviews wordt afgeleid dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging wordt een goede oefening gecreëerd die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 
-__Literatuurstudie (N= 10)__ 
-
-Aan de hand van literatuurstudie werd onderzocht welke activiteiten een impact hebben op cognitie. Er werd onderzoek gedaan naar de Ronnie Gardiner Methode, maar ook naar de effecten van muziek, fysieke en cognitieve oefeningen op de hersenen. 
-### Conclusies & implicaties
+__Literatuurstudie__ 
 
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
+### Conclusies & implicaties
 
-Uit de interviews werd afgeleid dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging wordt een goede oefening gecreëerd die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
+Het product moet de gebruiker fysiek aan het werk zetten. Het concept moet de gebruiker cognitief genoeg uitdagen. De interface moet eenvoudig te gebruiken zijn. Het product kan door meerdere mensen tegelijk gebruikt worden.
+
 ## 1.2 Definition
 Tijdens de definitiefase worden mogelijke oplossingen onderzocht en geëvalueerd om zo tot een concept te komen. 
 ### Doestellingen
