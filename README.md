@@ -28,8 +28,9 @@ Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuel
 * Veiligheid: De doelgroep zijn ouderen. Het is een kwetsbare groep. Scherpe randen vermijden.
 ## Methodologie
 Als weergave van de methodologie werd een variant op de methode van de ‘Double Diamond’ toegepast. Deze methode laat toe om meerdere keren te divergeren en convergeren. Er wordt gewerkt in verschillende fases.
-
-<img src="Afbeeldingen/tijdlijngoed.jpg" alt="diamond" width="1000">
+<p align="center">
+<img src="Afbeeldingen/tijdlijngoed.jpg" alt="diamond" width="100%">
+</p>
 
 __Discovery__
 
@@ -74,43 +75,76 @@ __Literatuurstudie__
 Uit de literatuurstudie blijkt dat door muziek, fysieke en cognitieve oefeningen te combineren worden de hersenen gestimuleerd in verschillende gebieden. Ook groepsactiviteiten hebben een positief effect, het zorgt voor een sociale verbondenheid en een vermindering van stress.
 ### Conclusies & implicaties
 
-Het product moet de gebruiker fysiek aan het werk zetten. Het concept moet de gebruiker cognitief genoeg uitdagen. De interface moet eenvoudig te gebruiken zijn. Het product kan door meerdere mensen tegelijk gebruikt worden.
+1. Het product moet de gebruiker fysiek aan het werk zetten.
+2. Het concept moet de gebruiker cognitief genoeg uitdagen.
+3. De interface moet eenvoudig te gebruiken zijn.
+4. Het product kan door meerdere mensen tegelijk gebruikt worden.
 
 ## 1.2 Definition
-Tijdens de definitiefase worden mogelijke oplossingen onderzocht en geëvalueerd om zo tot een concept te komen. 
+Tijdens de definitiefase worden mogelijke oplossingen onderzocht en geëvalueerd om zo tot een concept te komen. Er wordt gewerkt in twee waves. Tijdens de eerste wave worden drie concepten getest. Uit deze concepten wordt één concept gekozen om in de tweede wave met verder te gaan.
 ### Doestellingen
 * Storyboard 
 * Quick-and-dirty prototypes 
 * Concept bekomen 
 * Concept valideren 
 ### Materiaal & methoden
-* Prototypes uit hout 
-* Prototypes uit karton 
-* Digitale interface 
-* Gebruikerstesten 
-* Gebruikersinterviews 
+* __WAVE 1 - Prototype 1:__ Het prototype is gemaakt uit hout om stevigheid te bieden en heeft een digitale interface met fysieke knoppen. De interface is gecreëerd met Protopie en een smartphone. De gebruiker krijgt een kleurencombinatie te zien en moet deze onthouden. Achteraf voert hij de juiste combinatie in.
+
+<p align="center">
+<img src="Afbeeldingen/proto1.jpg" alt="p1" width="300">
+</p>
+
+* __WAVE 1 - Prototype 2:__ Het tweede prototype is gemaakt uit karton en gekleurd papier. Hier worden kleuren opgelicht en na de cmbinatie veranderen de posities van de kleuren. De gebruiker dient de juiste combinantie in te geven zonder verstrooid te geraken door de verandering van positie.
+
+<p align="center">
+<img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300">
+</p>
+
+* __WAVE 1 - Prototype 3:__ Dit prototype heeft een rooster van drie bij drie. Er worden vier vakken opgelicht in een bepaalde volgorde. Het is aan de gebruiker om de juiste volgorde te onthouden.
+
+<p align="center">
+<img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
+</p>
+
+* __WAVE 2 - Prototype 1:__ Een er wordt een kleurencombinatie afgespeeld die gebruiker moet onthouden. Achteraf worden de knoppen zichtbaar en moet de gebruiker de juiste combinatie indienen. Het prototype is in hout gemaakt zodat het stevig is. Er zit een spons onder de knoppen zodat de knoppen ingedrukt kunnnen worden.
+
+<p align="center">
+<img src="Afbeeldingen/prototype4.1.jpg" alt="p41" width="300"> <img src="Afbeeldingen/prototype4.2.jpg" alt="p42" width="300">
+</p>
+
+* __WAVE 2 - Prototype 2:__ Er wordt verder gewerkt met prototype 1. Er komt wel een stap bij. Na de combinatie te zien, krijgt de respondent de knoppen te zien. Daarna worden de knoppen vervangen door neutrale knoppen. De gebruiker moet dus zowel de kleurencombinatie als de positie van de knoppen onthouden. 
+
+<p align="center">
+<img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300"> <img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300"> <img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
+</p>
+
+* __WAVE 2 - Prototype 3:__ Dit prototype dient hetzelfde principe als het eerste prototype. Het enige verschil is dat de gebruiker zelf de snelheid van de kleurencombinantie kan bepalen. Door te tikken op het scherm kan de gebruiker naar het volgende kleur overgaan. Dit is gemaakt met protopie.
+
+<p align="center">
+<img src="Afbeeldingen/prototype6.1.jpg" alt="p61" width="300"> <img src="Afbeeldingen/prototype6.2.jpg" alt="p62" width="300"> <img src="Afbeeldingen/prototype6.3.jpg" alt="p63" width="300">
+</p>
+
+* __Gebruikerstesten:__ Het doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie worden de drie prototypes voorgesteld. De prototypes worden dan in een willekeurige volgorde uitgetest. Bij de tweede gebruikerstest worden de drie varianten ook in een willekeurige volgorde getest.
+* __Gebruikersinterviews:__ Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
+* __Scorematrices:__  Na de testen geeft de respondent een score van 0 tot en met vier aan het prototype. Tijdens wave 1 wordt er gescoord op "moeilijkheid" en op "plezier". Het product mag niet te makkelijk zijn, er moet een uitdaging zijn. Maar het mag ook niet te moeilijk zijn zodat de gebruiker niet opgeeft. De gebruiker moet het spel leuk vinden, daarom is het belangrijk om te weten welk concept de gebruiker het leukst vindt. In wave 2 worden de prototypes ook beoordeeld op "moeilijkheid" en op "gebruiksvriendelijkheid". 
 ### Resultaten
 De concepten worden geëvalueerd aan de hand van gebruikerstesten. Dit gebeurt met gebruikers uit de doelgroep die we voor ogen hebben. Op deze manier kunnen we tijdens de interactie problemen of moeilijkheden observeren. 
 
 __WAVE 1__ 
 
-Het doel bij de eerste gebruikerstest is om het concept te valideren. Na een korte introductie worden de drie prototypes voorgesteld. Bij elk van de drie prototypes is het concept een klein beetje anders. De prototypes werden dan in een willekeurige volgorde uitgetest. Na de testen werd de gebruiker geïnterviewd. Alle data zijn digitaal bijgehouden. 
+De drie prototypes worden in een willekeurige volgorde getest en achter wordt de scorematrix ingevuld.
 
-<img src="Afbeeldingen/proto1.jpg" alt="p1" width="300"> <img src="Afbeeldingen/proto2.jpg" alt="p2" width="300"> <img src="Afbeeldingen/proto%202%202.jpg" alt="p2.2" width="300"> <img src="Afbeeldingen/proto3.jpg" alt="p3" width="300"> <img src="Afbeeldingen/proto3%203.jpg" alt="p3.3" width="300">
-
-Na de testen werden de interviews geanalyseerd. Tijdens de analyse werden drie scoringsmatrices opgesteld. Er kon een score van 0 tot en met +4 gegeven worden. Aan de hand van de totaalscores zien we welk prototype op welke categorie het best scoort. 
-
-<img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="500"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="500"> 
+<p align="center">
+<img src="Afbeeldingen/Moeilijkheid.jpg" alt="matrix 1" width="400"> <img src="Afbeeldingen/Plezier.jpg" alt="matrix 2" width="400"> 
+</p>
 
 __WAVE 2__
 
-Uit de eerste gebruikerstest werd een concept geselecteerd om op verder te bouwen. Er werden drie prototypes bedacht en uitgewerkt. Tijdens deze gebruikerstest ligt de focus op de interactie met het prototype. In het tweede semester ligt de focus op het ontwerpen van de interface. De interactie tussen de gebruiker en het prototype varieert bij elk prototype. Knoppen die al dan niet zichtbaar zijn, de combinatie die op een vaste of een zelf-regelbare snelheid afspeelt. Tijdens deze gebrukerstets wordt op dezelfde manier te werk gegaan als in de eerste gebruikerstest. Eerst de prototypes laten uittesten, daarna de gebruiker interviewen en achteraf analyseren. Voor bepaalde criteria werden weer scoringsmatrices opgesteld.  
+Uit de eerste gebruikerstest wordt een concept geselecteerd om op verder te bouwen. Tijdens deze gebruikerstest ligt de focus op de interactie met het prototype. De drie prototypes worden weer in een willekeurige volgorde getest. Achteraf worden de scorematrices ingevuld.
 
-<img src="Afbeeldingen/prototype4.1.jpg" alt="p41" width="300"> <img src="Afbeeldingen/prototype4.2.jpg" alt="p42" width="300">
-<img src="Afbeeldingen/prototype5.1.jpg" alt="p51" width="300"> <img src="Afbeeldingen/prototype5.2.jpg" alt="p52" width="300"> <img src="Afbeeldingen/prototype5.3.jpg" alt="p53" width="300">
-<img src="Afbeeldingen/prototype6.1.jpg" alt="p61" width="300"> <img src="Afbeeldingen/prototype6.2.jpg" alt="p62" width="300"> <img src="Afbeeldingen/prototype6.3.jpg" alt="p63" width="300">
-
-<img src="Afbeeldingen/Gebruiksvriendelijk.jpg" alt="matrix 3" width="500"> <img src="Afbeeldingen/Moeilijkheid2.jpg" alt="matrix 4" width="500"> 
+<p align="center">
+<img src="Afbeeldingen/Gebruiksvriendelijk.jpg" alt="matrix 3" width="400"> <img src="Afbeeldingen/Moeilijkheid2.jpg" alt="matrix 4" width="400"> 
+</p>
 
 ### Conclusies & implicaties
 Uit de gebruikerstesten en gebruikersinterviews konden een paar conclusies en implicaties getrokken worden. Deze staan hieronder opgesomd. 
@@ -125,7 +159,7 @@ Bij het prototype waarbij men zelf op het scherm ging tikken om zo de snelheid v
 
 __3. Moeilijkheden drukknop__
 
-Na het zien van de kleurenvolgorde bij de test met het scherm en de 4 knoppen (uit wave 1) is het de bedoeling dat de kleurencombinatie gaat ingeven waarbij elke knop staat voor een kleur, visueel zichtbaar gemaakt door de latjes die erboven werden geplaatst. Dit zorgde voor verwarring, aangezien ze niet op de knoppen drukten maar op de kleuren van de latjes. Hier werd rekening mee gehouden in wave 2 waarbij de kleuren op de knoppen stonden. 
+Na het zien van de kleurenvolgorde bij de test met het scherm en de 4 knoppen (uit wave 1) is het de bedoeling dat de kleurencombinatie gaat ingeven waarbij elke knop staat voor een kleur, visueel zichtbaar gemaakt door de latjes die erboven worden geplaatst. Dit zorgde voor verwarring, aangezien ze niet op de knoppen drukten maar op de kleuren van de latjes. In wave 2 wordt goed duidelijkgemaakt wat de knoppen zijn.
 
 __4. Verwarring door aftellen__
 
@@ -133,12 +167,18 @@ Voordat de kleurencode op het scherm getoond werd, werd er eerst afgeteld. Voor 
 
 __5. Timing__
 
-Wat verwarrend was voor sommige testers in wave 1 bij het prototype met het scherm en de knoppen, was de timing van het ingeven van de kleurencombinatie. Zo drukten testers de knoppen al in voordat de kleurencombinatie volledig getoond was. Hier werd op ingegaan bij de 2e wave waarbij de knoppen pas na de combinatie zichtbaar werden. Dit had een positieve invloed op de testen. 
+Wat verwarrend is voor sommige testers in wave 1 bij het prototype met het scherm en de knoppen, is de timing van het ingeven van de kleurencombinatie. Zo drukken testers de knoppen al in vooraleer de kleurencombinatie volledig getoond was. In wave 2 worden de knoppen pas tevoorschijn wanneer de kleurencomcinatie volledig getoond is. 
 
 __6. Keuze van concept__
 
-Uit wave 1 kon geconcludeerd worden dat het prototype met het scherm en de 4 knoppen waarbij de kleurencombinatie onthouden moest worden het meest in de smaak viel bij de testers. Daar werd op ingegaan in wave 2. Ook de prototypes, die zijn gemaakt door het divergeren van het gekozen concept van wave 2, werden door 4 van de 5 testers goedgekeurd. Op deze concept wordt dus verdergegaan in het tweede semester.
+Uit wave 1 kan geconcludeerd worden dat het prototype met het scherm en de vier knoppen waarbij de kleurencombinatie onthouden moest worden het meest in de smaak viel bij de testers. Ook scoort dit concept niet te laag op vlak van moeilijkheid. In wave 2 wordt verder gegaan met dit concept. Ook de prototypes, die zijn gemaakt tijdens het divergeren van het gekozen concept van wave 2, worden door 4 van de 5 testers goedgekeurd. Met dit concept wordt verdergegaan in de development fase.
 
+
+__Conclusies__
+1. Het niveau moet aanpasbaar zijn.
+2. De gebruiker kan zelf de kleurencombinatie bedienen.
+3. De knoppen moeten duidelijk angeduid zijn.
+4. Het moet duidelijk zijn wanneer de knoppen moeten ingedrukt worden.
 ## 2.1 Develop 1
 Tijdens deze fase wordt de fysieke ergonomie onderzocht. Dit is een belangrijk onderdeel aangezien senioren minder flexibel en bewegelijk zijn. De focus ligt vooral op de schouder, bovenarm en nek omdat de beze delen het meest belast worden.
 
