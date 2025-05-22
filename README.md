@@ -258,7 +258,7 @@ De gebogen vorm werd het best beoordeeld in de BERT-test, omdat die het minst be
 
 __Afstand tot de knop:__
 
-De gemiddelde ideale afstand tussen gebruiker en knop werd vastgesteld op 27,7 cm. Knoppen worden op deze afstand geplaatst om een vlotte en comfortabele bediening mogelijk te maken.
+De gemiddelde ideale afstand tussen gebruiker en knop werd vastgesteld op 27,7 cm. Achteraf bekeken is deze test nutteloos aangezien de gebruiker het product kan verplaatsen tot een afstand waar hij het wenst. Deze test schept wel een beeld van de bewegelijkheid van de doelgroep.
 
 __Hoek van het scherm:__
 
@@ -278,55 +278,66 @@ Ook wordt er nog een aanvullende analyse uitgevoerd om bijkomende inzichten te v
 Nagaan of de interface logisch en gebruiksvriendelijk is, zodat de gebruiker het systeem intuïtief kan bedienen zonder onnodige mentale inspanning. 
 
 ### Materiaal & methoden
-* Het prototype, gekozen in Develop 1 
-* Smartphone (voor Protopie) 
-* Smartphone (voor wizard-of-oz methode) 
-* Gebruikerstesten 
-* Gebruikersinterviews 
-* Wizard-of-oz 
-* BERT-test 
-* Think aloud protocol (TAP) 
-* Error-analyse
-* Siemens NX human modelling
+* __Prototype:__ De basis blijft voor de verschillende testen hetzelfde, enkel bij de derde test komt er een vijfde fysieke knop bij. De verandering in het besturen van de console gebeurt d.m.v. Protopie via de smartphone die verbonden is aan het prototype.
 
-### Resultaten
-De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Elke van de 3 testen die worden afgenomen per respondent (N=4) bestaan steeds uit 3 dezelfde fases. Deze verschillen van prototype, die worden uitgelegd hieronder. 
-
-_Prototypes_
-
-De basis blijft voor de verschillende testen hetzelfde, enkel bij de derde test komt er een vijfde fysieke knop bij. De verandering in het besturen van de console gebeurt d.m.v. Protopie via de smartphone die verbonden is aan het prototype.  
-
+<p align="center">
 <img src="Afbeeldingen/d4.2prototype.jpg" alt="31test3" width="300">
+</p>
+
+* __Gebruikerstesten (N=4):__ De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Elke van de 3 testen die worden afgenomen per respondent (N=4) bestaan steeds uit 3 dezelfde fases. Deze verschillen van prototype, die worden hieronder uitgelegd. 
 
 _Fase 1_
 
 In het eerste prototype verschijnt de melding “Klik op het scherm om te beginnen”, waarna de kleuren één voor één zichtbaar worden telkens er op het scherm wordt geklikt.
 
+<p align="center">
 <img src="Afbeeldingen/d4.2interface1.jpg" alt="31test3" width="600">
+</p>
 
 _Fase 2_
 
-In de tweede test blijft de taak dezelfde, maar wordt de interactie aangepast: in plaats van op het scherm te tikken, moet de gebruiker op een knop in de hoek van het scherm drukken om naar de volgende kleur te gaan.
+In de tweede test blijft de taak dezelfde, maar wordt de interactie aangepast: in plaats van eender waar op het scherm te tikken, moet de gebruiker op een knop in de hoek van het scherm drukken om naar de volgende kleur te gaan.
 
+<p align="center">
 <img src="Afbeeldingen/d4.2interface2.jpg" alt="31test3" width="600">
+</p>
 
 _Fase 3_
 
 In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fictieve vijfde fysieke knop onder het scherm. Deze interactie wordt gesimuleerd met behulp van de wizard-of-oz-methode, waarbij het scherm extern bestuurd wordt.
 
-<img src="Afbeeldingen/d4.2interface3.jpg" alt="31test3" width="600">
+<p align="center">
+<img src="Afbeeldingen/d4.2interface3.jpg" alt="31test3" width="600"><img src="Afbeeldingen/d4.2prototypfysieke knop.jpg" alt="31test3" width="300">
+</p>
 
-_Aanvullende analyse_
+* __Test 1 - Unguided test:__ Bij deze test komt de respondent in contact met de console zonder (extra) uitleg. De respondent moet de interface van begin tot eind bedienen. Om te achterhalen hoe duidelijk de console is, worden zowel de tijd tot het voltooien van de volledige handeling als de fouten die de gebruiker tegenkomt gemeten.
 
-Hier wordt gebruik gemaakt van Siemens NX human modelling. Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld langer leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
+<p align="center">
+<img src="Afbeeldingen/d4.2interactie1.jpg" alt="31test3" width="300">
+</p>
+ 
+* __Test 2 - Think aloud protocol (TAP):__ Dezelfde stappen worden ondergaan als in test 1. Nu moet de respondent luidop vertellen wat hij ziet en denkt tijdens de interactie met het prototype.
+* __Test 3 - Guided test:__
 
+
+<p align="center">
+<img src="Afbeeldingen/d4.2interactie2.jpg" alt="31test3" width="300">
+</p>
+
+* __Wizard-of-oz:__
+* __BERT-test:__
+* __Error-analyse__
+* __Siemens NX human modelling:__ Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld langer leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
+
+<p align="center">
 <img src="Afbeeldingen/D4.2NXopstelling.jpg" alt="31test3" width="300">
+</p>
+
+### Resultaten
 
 __Test 1: Unguided test__
 
-Bij deze test komt de respondent in contact met de console zonder (extra) uitleg. Om te achterhalen hoe duidelijk de console is, worden zowel de tijd tot het voltooien van de volledige handeling als de fouten die de gebruiker tegenkomt gemeten. De gegevens worden weergegeven in de twee onderstaande tabellen en in de staafgrafiek. 
-
-<img src="Afbeeldingen/d4.2interactie1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/d4.2interactie2.jpg" alt="31test3" width="300">
+De gegevens worden weergegeven in de twee onderstaande tabellen en in de staafgrafiek. 
 
 <img src="Afbeeldingen/D4.2tabeltest1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest1.jpg" alt="31test3" width="300">
 <img src="Afbeeldingen/D4.2tabelerrorstest1.jpg" alt="31test3" width="300">
@@ -343,7 +354,7 @@ __Test 3: Guided test__
 
 Deze test komt overeen met de eerste test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
 
-<img src="Afbeeldingen/d4.2prototypfysieke knop.jpg" alt="31test3" width="300">
+
 
 <img src="Afbeeldingen/D4.2tabeltest2.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest2.jpg" alt="31test3" width="300">
 <img src="Afbeeldingen/D4.2tabelerrorstest2.jpg" alt="31test3" width="300">
