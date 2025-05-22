@@ -395,44 +395,28 @@ Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvere
   om de combinatie in te geven en het scherm te kunnen bedienen 
 
 ## Kritische reflectie
-In dit project, bestaande uit twee teamleden, werd er gewerkt aan de ontwikkeling van een product die hersenen gaan stimuleren, voor de achteruitgang van ouderen af te remmen. Om de loop van het project te gaan evalueren worden verschillende aspecten kritisch gereflecteerd. 
+In dit project werkten we met twee studenten aan een product dat het geheugen en de aandacht van ouderen stimuleert, om zo achteruitgang tegen te gaan. We testten verschillende ideeën en leerden veel bij. Hieronder geven we een overzicht van wat goed ging en wat beter kon.
 
-__Positieve aspecten__ 
+#### Postitieve punten
 
-1. Teamwork
+De samenwerking tussen ons verliep heel vlot. Er wordt geluisterd naar elkaars ideeën, dachten samen na en vonden snel oplossingen.
 
-   De samenwerking tussen de 2 leden van dit project verliep heel goed. Er werd naar elkaars ideeën geluisterd en zaten heel vaak op dezelfde golflengte. 
+Alle informatie en resultaten van het eerste semester werden goed bijgehouden. Dat zorgde voor een duidelijke documentatie en hielp bij het verdere verloop van dit project
 
-2. Documentatie
+De prototypes werden heel snel gemaakt, maar waren toch goed genoeg om mee te testen. Ze toonden duidelijk waar verbeterpunten zaten, en gaven ons veel inzichten.
 
-   Alle gegevens in die loop van dit 1e semester werden verzameld, werden goed bijgehouden wat een positieve invloed had op de documentatie van dit project. 
+Er wordt waardevolle feedback verkregen van de gebruikers. Ze gaven hun mening over het ontwerp, het spel en de knoppen.
 
-3. Feedback van de doelgroep
+Na elke testfase dachten we goed na over wat beter kon, en pasten we het ontwerp meteen aan. Een voorbeeld is de overstap van ingewikkelde RGB-ledjes naar NeoPixels in combinatie met ProtoPie.
 
-   Tijdens en na het testen werd er (al dan niet na vragen) veel feedback gegeven over het concept en de prototypes zelf. Hier werd goed op in gegaan waardoor we meer te weten kwamen over de testers. 
+#### Werkpunten
+Tijd bleek een uitdaging tijdens het project. Door de samenwerking met het rusthuis en het combineren van schooltaken, raakten bepaalde onderdelen pas op het laatste moment afgewerkt. In het tweede semester is een beter tijdsbeheer een belangrijk aandachtspunt.
 
-4. Snel oplossingen
+De meningen van testers liepen regelmatig uiteen. Met slechts vier/vijf deelnemers per test was het niet eenvoudig om keuzes te maken. Toch kon op basis van hun feedback een geschikt prototype geselecteerd worden.
 
-   Na het reflecteren van de eerste testen werd er goed samengewerkt en gebrainstormd om nieuwe prototypes samen te stellen. Dit verliep heel vlot en zorgde voor een goede samenwerking. 
+Niet alle prototypes waren even duidelijk. Sommige kleuren leken te veel op elkaar, wat verwarring veroorzaakte tijdens de testen. Deze ervaring benadrukte het belang van een goed kleurcontrast, zeker bij oudere gebruikers. Ook de tekst, vermeld op het scherm kon duidelijker.
 
-__Negatieve aspecten/werkpunten__ 
-1. Tijdbeheer
-
-   Door afhankelijk te zijn van verschillende factoren zoals: de samenwerking met het rusthuis voor de testen uit te voeren, elkaar en de toetsen/taken/examens van andere vakken werd de tijd vaak onze vijand. 
-   Dit  zorgde ervoor dat sommige delen van dit project slechts net op tijd klaar geraakten. Aan de groepsleden om in het tweede semester aan het tijdsbeheer te werken. 
-
-2. Diversiteit van de doelgroep
-
-   De meningen van de testers liepen vaak uiteen. Zo waren de voorkeuren van prototypes verschillend. Doordat er slechts 5 testers per wave waren, maakte dit de keuze nog moeilijker. Desondanks deze 
-   moeilijkheden  kon toch een prototype naar voor worden geschoven om aan verder te werken in de verdere loop van dit project. 
-
-4. Duidelijkheid van het prototype
-
-   Sommige prototypes waren niet duidelijk. Zo werd met kleur gewerkt, waarbij 2 kleuren op elkaar leken. Dit maakte het voor de gebruiker moeilijker ondanks dit niet de bedoeling was. Dit had vooral een negatief effect op de testen. 
-
-__Conclusie__ 
-
-Tot nu toe liep het project vlot. Zo zit de samenwerking goed, de feedback van de doelgroep is positief en ook de documentatie is in orde. Ondanks dit alles, werd in het eerste semester toch met de tijd geworsteld. De diversiteit van de doelgroep en de duidelijkheid van de prototypes konden beter. Een groter aantal testers zou een positief effect op ons project gehad hebben. Nu is het aan de groepsleden om de positieve aspecten aan te houden en aan de negatieve aspecten te werken in het tweede semester. 
+Bepaalde functies zoals samen spelen, uitdagingen en scoreopvolging konden door tijdsgebrek niet uitgewerkt worden.
 
 ## Bijlagen
 __Soryboard__
