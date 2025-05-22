@@ -481,11 +481,7 @@ Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvere
 | **4.3** | **Vermijden van overbelasting:** Fysieke handelingen bij het gebruik mogen niet leiden tot overbelasting, en moeten voldoende motorische prikkels geven om beweging te stimuleren. | Develop 5.3 | Door gebruikerstesten en simulaties in Siemens NX werd nagegaan hoe ver gebruikers kunnen reiken. Op basis daarvan kan de fysieke belasting beperkt worden door een slimme en doordachte plaatsing van knoppen en scherm. |
 
 
-## Bill of materials
-- Dun hout voor de behuizing
-- Scherm om kleurencombinatie te tonen
-- Drukknoppen die kunnen oplichten in verschillende kleuren,
-  om de combinatie in te geven en het scherm te kunnen bedienen 
+
 
 ## Kritische reflectie
 In dit project werkten we met twee studenten aan een product dat het geheugen en de aandacht van ouderen stimuleert, om zo achteruitgang tegen te gaan. We testten verschillende ideeën en leerden veel bij. Hieronder geven we een overzicht van wat goed ging en wat beter kon.
@@ -515,7 +511,12 @@ Een bijkomend aandachtspunt is dat het prototype momenteel geen muziek of auditi
 
 #### Conclussie
 Tijdens dit project werd een gebruiksvriendelijk spel ontwikkeld dat ouderen mentaal prikkelt en hen uitdaagt op een toegankelijke manier. Er werd goed samengewerkt, snel geprototyped en rekening gehouden met feedback van de doelgroep. Ondanks enkele beperkingen, zoals het ontbreken van geluid of meer fysieke interactie, is het eindresultaat iets waar trots op mag worden teruggekeken.
-
+## Technische beschrijving 
+### Bill of materials
+- Dun hout voor de behuizing
+- Scherm om kleurencombinatie te tonen
+- Drukknoppen die kunnen oplichten in verschillende kleuren,
+  om de combinatie in te geven en het scherm te kunnen bedienen 
 ## Bijlagen
 __Soryboard__
 
