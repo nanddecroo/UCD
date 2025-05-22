@@ -418,6 +418,11 @@ Niet alle prototypes waren even duidelijk. Sommige kleuren leken te veel op elka
 
 Bepaalde functies zoals samen spelen, uitdagingen en scoreopvolging konden door tijdsgebrek niet uitgewerkt worden.
 
+Een bijkomend aandachtspunt is dat het prototype momenteel geen muziek of auditieve ondersteuning bevat, en ook weinig fysieke beweging vraagt van de gebruiker, wat het spel mogelijk aantrekkelijker en actiever zouden maken.
+
+#### Conclussie
+Tijdens dit project werd een gebruiksvriendelijk spel ontwikkeld dat ouderen mentaal prikkelt en hen uitdaagt op een toegankelijke manier. Er werd goed samengewerkt, snel geprototyped en rekening gehouden met feedback van de doelgroep. Ondanks enkele beperkingen, zoals het ontbreken van geluid of meer fysieke interactie, is het eindresultaat iets waar trots op mag worden teruggekeken.
+
 ## Bijlagen
 __Soryboard__
 
