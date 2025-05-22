@@ -178,6 +178,14 @@ Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de 
 
 
 ### Conclusies & implicaties
+#### Vorm van het toestel:
+De gebogen vorm werd het best beoordeeld in de BERT-test, omdat die het minst belastend is voor het lichaam. Daarom wordt er gekozen voor die vorm in het uiteindelijke ontwerp.
+
+#### Afstand tot de knop:
+De gemiddelde ideale afstand tussen gebruiker en knop werd vastgesteld op 27,7 cm. Knoppen worden op deze afstand geplaatst om een vlotte en comfortabele bediening mogelijk te maken.
+
+#### Hoek van het scherm:
+De optimale schermhoek is bepaald op 65 graden. Het scherm wordt onder deze hoek gepositioneerd om leesbaarheid te garanderen zonder visuele of fysieke belasting.
 
 ## 2.2 Develop 2
 Gedurende deze fase wordt gekeken naar de cognitieve ergonomie van het product. Daarbij wordt onderzocht in hoeverre de interface en de interactie logisch en begrijpelijk zijn voor de gebruiker. Het doel is dat het systeem gemakkelijk te gebruiken is, zonder dat het onnodig veel denkwerk vereist. Zo kan de gebruiker zich concentreren op de eigenlijke taak, zonder afgeleid te worden door onduidelijke bediening of verwarring over hoe het systeem werkt. Op die manier draagt de test bij aan een gebruiksvriendelijke, efficiënte en toegankelijke gebruikerservaring. 
@@ -268,7 +276,33 @@ In deze aanvullende test wordt gekeken hoe ver een gemiddelede vrouw van 79 jaar
 
 <img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="300">
 
+
 ### Conclusies & implicaties
+#### Gebruikerstests
+##### Tekst op scherm
+Tekst op het scherm moet groot en beknopt zijn. Zo kunnen gebruikers de informatie sneller verwerken en worden leesfouten vermeden.
+##### Bediening scherm
+Het bedienen van een kleurenvolgorde via een scherm is voor deze doelgroep niet vanzelfsprekend. Voor hen is een intuïtieve en fysieke bediening vaak toegankelijker.
+##### Zichtbare knop is noodzakelijk
+Zonder een zichtbare knop weten gebruikers niet hoe ze naar de volgende kleur moeten gaan. Dit zorgt voor verwarring. Een duidelijke visuele aanwijzing is essentieel om het gebruik vlot te laten verlopen.
+##### Complexe bediening
+Gebruikers vergeten snel hoe het systeem werkt als ze er te veel bij moeten nadenken. Een eenvoudige en logische interface helpt hen om het product correct te gebruiken, zonder extra cognitieve belasting.
+##### Beste resultaten
+Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
+
+#### Antropometrie Siemens NX
+##### Reikwijdte
+Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
+##### Comfort
+De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
+##### Geen klachten
+Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
+
+
+
+
+
+
 
 
 ## 2.3 Develop 3
