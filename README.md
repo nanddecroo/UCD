@@ -359,6 +359,13 @@ Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste s
 
 Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
 ## Conclusie
+Tijdens dit project werd een spelconsole ontwikkeld met als doel ouderen mentaal actief te houden. De gebruiker krijgt een willekeurige kleurenvolgorde te zien op een display, en moet deze vervolgens correct invoeren met vier fysieke knoppen. Na elke poging volgt duidelijke feedback: bij een correcte invoer een bevestiging, anders een foutmelding.
+
+Bij het ontwerp werd rekening gehouden met verschillende ergonomische en gebruiksvriendelijke aspecten. Er werd geëxperimenteerd met de vorm, plaats en grootte van de knoppen, de hoek van het scherm, en het verschil tussen fysieke en digitale bediening. Deze keuzes zijn telkens getest met eenvoudige prototypes, gebruik makend van Arduino en Protopie.
+
+Hoewel niet alle geplande functies – zoals het gebruik van vormen, speelmogelijkheden met meerdere personen of data-opslag voor zorgprofessionals – konden worden uitgewerkt, biedt het project een goede basis voor verdere ontwikkeling. De testresultaten gaven nuttige inzichten in de noden van de doelgroep en kunnen dienen als richtlijn voor toekomstige iteraties of toepassingen binnen zorgomgevingen.
+
+
 |Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
