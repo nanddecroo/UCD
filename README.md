@@ -317,16 +317,15 @@ In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fict
 </p>
  
 * __Test 2 - Think aloud protocol (TAP):__ Dezelfde stappen worden ondergaan als in test 1. Nu moet de respondent luidop vertellen wat hij ziet en denkt tijdens de interactie met het prototype.
-* __Test 3 - Guided test:__
-
+* __Test 3 - Guided test:__ Deze test komt overeen met de eerste test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde.
 
 <p align="center">
 <img src="Afbeeldingen/d4.2interactie2.jpg" alt="31test3" width="300">
 </p>
 
-* __Wizard-of-oz:__
-* __BERT-test:__
-* __Error-analyse__
+* __Wizard-of-oz:__ Twee smartphones videobellen met elkaar. Eén smartphone deelt het scherm met de andere, zo kan de ene smartphone de interactie met de fysieke knop simuleren.
+* __BERT-test:__ Tijdens deze test wordt per prototype een score gegeven van onduidelijk tot duidelijk en van afstotelijk tot uitnodigend.
+* __Error-analyse__: Tijdens de test worden het aantal en het type errrors geteld door observatie.
 * __Siemens NX human modelling:__ Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld langer leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
 
 <p align="center">
@@ -337,66 +336,67 @@ In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fict
 
 __Test 1: Unguided test__
 
-De gegevens worden weergegeven in de twee onderstaande tabellen en in de staafgrafiek. 
+De tijd en de errors worden gemeten. De gegevens worden weergegeven in de twee onderstaande tabellen en in het staafdiagram. De participanten kunnen het best overweg met het derde prototype, het prototype met de fysieke knop. Bij prototype 3 zijn er geen errors.
 
+<p align="center">
 <img src="Afbeeldingen/D4.2tabeltest1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest1.jpg" alt="31test3" width="300">
 <img src="Afbeeldingen/D4.2tabelerrorstest1.jpg" alt="31test3" width="300">
+</p>
 
-Na afloop van de test legden de deelnemers een BERT-test af en gaven ze hun voorkeur aan. De resultaten hiervan zijn te zien hieronder. 
+Na afloop van de test leggen de deelnemers een BERT-test af en geven ze hun voorkeur aan. Prototype 3 scoort het best in deze bevraging. De resultaten hiervan zijn te zien hieronder. 
 
+<p align="center">
 <img src="Afbeeldingen/D4.2berttest1.jpg" alt="31test3" width="300">
+</p>
 
 __Test 2: Think aloud protocol (TAP)__
 
-Het TAP verliep niet zoals gehoopt. De ouderen vonden het moeilijk om tegelijkertijd te spreken, nadenken en handelingen uit te voeren. Hierdoor vergaten ze vaak hardop te vertellen wat ze dachten, raakten de kleurenvolgorde kwijt of wisten niet meer hoe het prototype werkte. Deze test is dus niet handig voor het verdere verloop van het project. 
+Het TAP verliep niet zoals gehoopt. De ouderen vinden het moeilijk om tegelijkertijd te spreken, nadenken en handelingen uit te voeren. Hierdoor vergeten ze vaak hardop te vertellen wat ze denken, raken ze de kleurenvolgorde kwijt of weten niet meer hoe het prototype werkte. Deze test is dus niet handig voor het verdere verloop van het project. 
 
 __Test 3: Guided test__
 
-Deze test komt overeen met de eerste test, alleen wordt nu alles vooraf uitgelegd. Ook de methode van het verzamelen van de gegevens blijft hetzelfde. Deze staan hieronder. 
+Ook voor de guided test wordt de tijd gemeten en worden de errors bijgehouden. Ook hier geeft prototype 3 de beste resultaten weer.
 
-
-
+<p align="center">
 <img src="Afbeeldingen/D4.2tabeltest2.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest2.jpg" alt="31test3" width="300">
 <img src="Afbeeldingen/D4.2tabelerrorstest2.jpg" alt="31test3" width="300">
+</p>
 
-Ook na de guided test werd een BERT-test afgenomen. 
+Ook na de guided test werd een BERT-test afgenomen. Hier scoort prototype 3 nog beter. 
 
-<img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="300">
+<p align="center">
+<img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="400">
+</p>
 
 __Human modelling__
 
-In deze aanvullende test wordt gekeken hoe ver een gemiddelede vrouw van 79 jaar oud kan uitreiken. Ook wordt gekeken naar het comfortgevoel in de armen omdat deze het meest belast worden.
+De simulatie van de reach en de comfort analyse zijn hieronder afgebeeld. In de simulatie van dereach is te zien dt het prototype binnen het bereik valt. De resultaten van de comfort analyse zijn ook goed. Bijna alle metingen vallen binnen de grenzen. Degene die erbuiten vallen zijn te verwaarlozen aangezien dit maar over een paar graden gaat.
 
-<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="300">
-
+<p align="center">
+<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="400">
+</p>
 
 ### Conclusies & implicaties
-#### Gebruikerstests
-##### Tekst op scherm
-Tekst op het scherm moet groot en beknopt zijn. Zo kunnen gebruikers de informatie sneller verwerken en worden leesfouten vermeden.
-##### Bediening scherm
-Het bedienen van een kleurenvolgorde via een scherm is voor deze doelgroep niet vanzelfsprekend. Voor hen is een intuïtieve en fysieke bediening vaak toegankelijker.
-##### Zichtbare knop is noodzakelijk
-Zonder een zichtbare knop weten gebruikers niet hoe ze naar de volgende kleur moeten gaan. Dit zorgt voor verwarring. Een duidelijke visuele aanwijzing is essentieel om het gebruik vlot te laten verlopen.
-##### Complexe bediening
-Gebruikers vergeten snel hoe het systeem werkt als ze er te veel bij moeten nadenken. Een eenvoudige en logische interface helpt hen om het product correct te gebruiken, zonder extra cognitieve belasting.
-##### Beste resultaten
-Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
+__Gebruikerstests__
 
-#### Antropometrie Siemens NX
-##### Reikwijdte
-Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
-##### Comfort
-De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
-##### Geen klachten
-Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
+* __Tekst op scherm:__ Tekst op het scherm moet groot en beknopt zijn. Zo kunnen gebruikers de informatie sneller verwerken en worden leesfouten vermeden.
+* __Bediening scherm:__ Het bedienen van een kleurenvolgorde via een scherm is voor deze doelgroep niet vanzelfsprekend. Voor hen is een intuïtieve en fysieke bediening vaak toegankelijker.
+* __Zichtbare knop is noodzakelijk:__ Zonder een zichtbare knop weten gebruikers niet hoe ze naar de volgende kleur moeten gaan. Dit zorgt voor verwarring. Een duidelijke visuele aanwijzing is essentieel om het gebruik vlot te laten verlopen.
+* __Complexe bediening:__ Gebruikers vergeten snel hoe het systeem werkt als ze er te veel bij moeten nadenken. Een eenvoudige en logische interface helpt hen om het product correct te gebruiken, zonder extra cognitieve belasting.
+* __Beste resultaten__ Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
 
+__Antropometrie Siemens NX__
 
+* __Reikwijdte:__ Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
+* __Comfort:__ De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
+* __Geen klachten:__ Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
 
+__Conclusies__
 
-
-
-
+1. Het product wordt zo weinig mogelijk digitaal of met een scherm gestuurd.
+2. De tekst op het scherm moet leesbaar zijn.
+3. Het moet duidelijk zijn welke knop wanneer moet ingedrukt worden.
+4. De interface moet eenvoudig zijn.
 
 ## 2.3 Develop 3
 In de laatste fase wordt ingegaan op het sensoriële aspect van de console. Zo wordt nagegaan hoe duidelijk en comfortabel de handelingen met het product zijn voor een optimale beleving tijdens de interactie. 
