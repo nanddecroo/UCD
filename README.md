@@ -405,52 +405,81 @@ Eerst wordt getest hoeveel verlichting nodig is om de bijbehorende kleur van de 
 ### Doelstellingen
 Het evalueren van de sensorische gebruikservaring, met focus op zichtbaarheid, comfort en interactie van de knoppen. 
 ### Materiaal & methoden
-* Prototype voor de verlichting 
-* Prototype voor de knoppen 
-* Gebruikerstesten 
-* Ranking 
-### Resultaten
-De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 3 testen waarvoor elk een prototype nodig is. 
+* __Prototype voor de verlichting:__ Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kan een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en de positie van de Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
 
-_Prototypes_
-
-Het prototype voor het bepalen van de verlichting bestaat uit een houten constructie die is aangepast aan het breadbord en de Arduino UNO. Hierdoor kon een schakeling gemaakt worden, bestaande uit 2 drukknoppen en een strip met Neopixels.  Deze werden onderverdeeld in 4 delen met telkens 5 Neopixels. Indien op de knop wordt gedrukt gaat de bijhorende verlichting aan/uit, telkens in één van de 4 kleuren uit de kleurenvolgorde. Door telkens de code aan te passen kon gevarieerd worden met het aantal en de positie van de Neopixels die worden verlicht. Dit prototype is hieronder afgebeeld. 
-
+<p align="center">
 <img src="Afbeeldingen/D5.3prototype1.jpg" alt="31test3" width="450">
+</p>
 
-Het tweede prototype bestaat uit een 3D-geprint bakje met een veer, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Voor testen 2 en 3 zijn een aantal knoppen ontworpen. Onderstaande afbeelding toont het prototype. 
+* __Prototype voor de knoppen:__ Het tweede prototype bestaat uit een 3D-geprint bakje met een veer in, waarop knoppen bevestigd kunnen worden. Het bakje is modulair ontworpen, zodat verschillende knoppen erop passen en afzonderlijk getest kunnen worden. Voor testen 2 en 3 zijn een aantal knoppen ontworpen. Onderstaande afbeelding toont het prototype.
 
+<p align="center">
 <img src="Afbeeldingen/D5.3prototype2.jpg" alt="31test3" width="450">
+</p>
 
-__Test 1: Verlichting__
+* __Gebruikerstesten (N=4):__
 
-Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. De verschillende varianten werden gerangschikt en er werd een gewicht toegekend van 1 tot en met 9. (Lage score = slecht, Hoge score = goed)
+_Test 1: Verlichting_
 
-<img src="Afbeeldingen/D5.3uitvoering1.jpg" alt="31test3" width="450">
+Tijdens deze test worden telkens verschillende Neopixels opgelicht. De respondent wordt vervolgens gevraagd om met het prototype te interageren door de Neopixels op te lichten via de twee knoppen. Na elke interactie wordt feedback verzameld om te achterhalen welke verlichtingsopstelling de voorkeur krijgt. De verschillende varianten werden gerangschikt en er werd een gewicht toegekend van 1 tot en met 9. (Lage score = slecht, Hoge score = goed). De varianten staan in de tabel hieronder.
 
-<img src="Afbeeldingen/D5.3tabel1.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3tabel1.2.jpg" alt="31test3" width="300">
-<img src="Afbeeldingen/D5.3diagram1.jpg" alt="31test3" width="300">
+<p align="center">
+<img src="Afbeeldingen/D5.3tabel1.1.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D5.3uitvoering1.jpg" alt="31test3" width="400">
+</p>
 
-__Test 2: Grootte knoppen__
+_Test 2: Grootte knoppen_
 
 Hiervoor worden 3 verschillende knoppen getest. Knoppen met een diamater van 20 mm, 30 mm en 40 mm. De knoppen worden gerangschikt en er wordt een gewicht toegekend van 1 tot en met 3.
 
+<p align="center">
 <img src="Afbeeldingen/D5.3knoppentest2.jpg" alt="31test3" width="450">
+</p>
 
-<img src="Afbeeldingen/D5.3tabel2.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram2.jpg" alt="31test3" width="300">
-
-__Test 3: Vorm knoppen__
+_Test 3: Vorm knoppen_
 
 Tijdens deze test worden 5 verschillende knoppen getest. Ook hier worden de knoppen gerangschikt na het testen. Er wordt een gewicht van 1 t.e.m. 5 toegekend aan de knoppen afhankelijk van de rangschikking.
 
+<p align="center">
 <img src="Afbeeldingen/D5.3knoppentest3.jpg" alt="31test3" width="450"><img src="Afbeeldingen/D5.3uitvoering3.jpg" alt="31test3" width="450">
+</p>
 
+* __Ranking:__ De prototypes worden gerangschikt van slect naar goed. Per positie wordt een gewicht toegekend (gewicht = positie in de rangschikking). Op deze manier kan aan de totaalscore afgeleid worden welke variant het best is.
+### Resultaten
+De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 3 testen waarvoor elk een prototype nodig is. 
+
+
+__Test 1: Verlichting__
+
+Eén Neopixel onder de knop scoort het best. De tweede beste optie is één Neopixel boven de knop. Wanneer er te veel Neopixels branden verliest de gebruiker het overzicht.
+
+<p align="center">
+<img src="Afbeeldingen/D5.3tabel1.2.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D5.3diagram1.jpg" alt="31test3" width="400">
+</p>
+
+__Test 2: Grootte knoppen__
+
+Elke participant heeft bij deze test dezelfde score gegeven. De grootstet knop van 40 mm scoort het hoogst. 
+
+<p align="center">
+<img src="Afbeeldingen/D5.3tabel2.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram2.jpg" alt="31test3" width="300">
+</p>
+
+__Test 3: Vorm knoppen__
+
+Knop 1 en knop 3 scoren hier beide het hoogst. Deze twee knoppen zijn beide robuustere knoppen. Daarna komt knop 5 en knop 2. Knop 4 scoort het laagst.
+
+<p align="center">
 <img src="Afbeeldingen/D5.3tabel3.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram3.jpg" alt="31test3" width="300">
+</p>
 
 ### Conclusies & implicaties
-Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen.
+Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen. Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
+__Conclusies__
+1. De lichtjes die gebruikt worden moeten duidelijk zijn.
+2. De lichtjes mogen niet overweldigend zijn
+3. De knoppen moeten groot genoeg zijn.
+4. De knoppen moeten voelbaar zijn.
 
-Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
 ## Conclusie
 Tijdens dit project werd een spelconsole ontwikkeld met als doel ouderen mentaal actief te houden. De gebruiker krijgt een willekeurige kleurenvolgorde te zien op een display, en moet deze vervolgens correct invoeren met vier fysieke knoppen. Na elke poging volgt duidelijke feedback: bij een correcte invoer een bevestiging, anders een foutmelding.
 
