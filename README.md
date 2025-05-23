@@ -5,7 +5,7 @@
 
 18/06/2025
 ## Samenvatting
-Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en een verminderende cognitieve functie. Dit is onderzocht aan de hand van literatuurstudie en interviews. De conclusie hieruit is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
+Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze ouder worden. Hierdoor ontstaan geheugenproblemen en afnemende cognitieve functies. Dit is onderzocht aan de hand van literatuurstudie en interviews. De conclusie hieruit is dat het noodzakelijk is om tijdig preventieve maatregelen te gaan nemen om zo de hersenen actief te houden en geheugenverlies te vertragen. Een manier om dit te bereiken, is door het trainen van het geheugen met cognitieve oefeningen.  
 
 De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. 
 
@@ -14,9 +14,9 @@ De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers 
 </p>
 
 ## Introductie
-Het project is vetrokken uit de design challenge “Healthy Aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
+Het project is vertrokken vanuit de design challenge “Healthy Aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
 
-Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe [^1]. Met dit probleem wordt in dit project aan de slag gegaan om dit zo veel mogelijk te gaan beperken. 
+Doordat de bevolking steeds ouder wordt, neemt ook het aantal dementerenden toe [^1]. Met dit probleem wordt in dit project aan de slag gegaan om dit zoveel mogelijk te beperken. 
 
 Een techniek die hedendaags wordt gebruikt om cognitieve achteruitgang tegen te gaan is de Ronnie Gardiner Methode (RGM). Het is een multi-sensorische oefenmethode. Er wordt muziek en ritme ingezet om meerdere gebieden van de hersenen te stimuleren.
 
@@ -71,7 +71,7 @@ De gebruikte methodes waren:
 ### Resultaten
 __Interview met ervaringsdeskundige__
 
-Uit de interviews wordt afgeleid dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging wordt een goede oefening gecreëerd die de hersenen stimuleren in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
+Uit de interviews wordt afgeleid dat combinaties onthouden en reactie vermogen positieve reacties krijgt. Door dit te combineren met een fysieke beweging wordt een goede oefening gecreëerd die de hersenen stimuleert in verschillende gebieden. Het is ook belangrijk dat het product eenvoudig te gebruiken is, zeker als de gebruiker op leeftijd is.
 
 __Literatuurstudie__ 
 
@@ -205,7 +205,7 @@ Tijdens test 2 verschuift de respondent een schijfje tot zijn of haar ideale afs
 
 _Test 3_
 
-Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat. Dit wordt drie keer herhaald om een nauwkeuriger resultaat te bekomen
+Het scherm van het product moet onder een bepaalde hoek geplaatst worden. Om de hoek te bepalen wordt, tijdens test 3, een prototype gebruikt waarbij een scherm rond een as kan roteren. Het scherm wordt langzaam verplaatst. De respondent zegt "stop" op de positie waar het voor hem of haar onder de ideale hoek staat. Dit wordt drie keer herhaald om een nauwkeuriger resultaat te bekomen
 
 * __Prototypes test 1:__ Er zijn drie prototypes uit karton gemaakt in verschillende vormen. Er is gekozen voor karton omdat het eenvoudige prototypes zijn. Er zijn 4 schijfjes voorzien die de knoppen voorstellen.
 
@@ -449,7 +449,7 @@ Tijdens deze test worden 5 verschillende knoppen getest. Ook hier worden de knop
 <img src="Afbeeldingen/D5.3knoppentest3.jpg" alt="31test3" width="450"><img src="Afbeeldingen/D5.3uitvoering3.jpg" alt="31test3" width="450">
 </p>
 
-* __Ranking:__ De prototypes worden gerangschikt van slect naar goed. Per positie wordt een gewicht toegekend (gewicht = positie in de rangschikking). Op deze manier kan aan de totaalscore afgeleid worden welke variant het best is.
+* __Ranking:__ De prototypes worden gerangschikt van slecht naar goed. Per positie wordt een gewicht toegekend (gewicht = positie in de rangschikking). Op deze manier kan aan de totaalscore afgeleid worden welke variant het best is.
 ### Resultaten
 De testen worden wederom afgenomen in een rusthuis bij senioren die cognitief gezond zijn en bij ouderen thuis. Deze develop bestaat uit 3 testen waarvoor elk een prototype nodig is. 
 
@@ -546,7 +546,7 @@ Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvere
 ## Kritische reflectie
 In dit project werkten we met twee studenten aan een product dat het geheugen en de aandacht van ouderen stimuleert, om zo achteruitgang tegen te gaan. We testten verschillende ideeën en leerden veel bij. Hieronder geven we een overzicht van wat goed ging en wat beter kon.
 
-#### Postitieve punten
+#### Positieve punten
 
 De samenwerking tussen ons verliep heel vlot. Er wordt geluisterd naar elkaars ideeën, dachten samen na en vonden snel oplossingen.
 
@@ -565,11 +565,11 @@ De meningen van testers liepen regelmatig uiteen. Met slechts vier/vijf deelneme
 
 Niet alle prototypes waren even duidelijk. Sommige kleuren leken te veel op elkaar, wat verwarring veroorzaakte tijdens de testen. Deze ervaring benadrukte het belang van een goed kleurcontrast, zeker bij oudere gebruikers. Ook de tekst, vermeld op het scherm kon duidelijker.
 
-Bepaalde functies zoals samen spelen, uitdagingen en scoreopvolging konden door tijdsgebrek niet uitgewerkt worden.
+Bepaalde functies zoals samen spelen, uitdagingen en scoreopvolging kon door tijdsgebrek niet worden uitgewerkt.
 
 Een bijkomend aandachtspunt is dat het prototype momenteel geen muziek of auditieve ondersteuning bevat, en ook weinig fysieke beweging vraagt van de gebruiker, wat het spel mogelijk aantrekkelijker en actiever zouden maken.
 
-#### Conclussie
+#### Conclusie
 Tijdens dit project werd een gebruiksvriendelijk spel ontwikkeld dat ouderen mentaal prikkelt en hen uitdaagt op een toegankelijke manier. Er werd goed samengewerkt, snel geprototyped en rekening gehouden met feedback van de doelgroep. Ondanks enkele beperkingen, zoals het ontbreken van geluid of meer fysieke interactie, is het eindresultaat iets waar trots op mag worden teruggekeken.
 ## Technische beschrijving 
 __Bill of materials__
