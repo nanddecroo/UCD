@@ -493,26 +493,35 @@ Bij het ontwerp werd rekening gehouden met verschillende ergonomische en gebruik
 Hoewel niet alle geplande functies – zoals het gebruik van vormen, speelmogelijkheden met meerdere personen of data-opslag voor zorgprofessionals – konden worden uitgewerkt, biedt het project een goede basis voor verdere ontwikkeling. De testresultaten gaven nuttige inzichten in de noden van de doelgroep en kunnen dienen als richtlijn voor toekomstige iteraties of toepassingen binnen zorgomgevingen.
 ### Product Requirements 
 Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvereisten. Deze zijn afgeleid uit een combinatie van bronnen, waaronder literatuuronderzoek en gebruikerstesten. Hierbij staat steeds een opmerking, waarin vermeld staat hoe daarmee rekening is gehouden in dit project.
-| Nr. | Requirement | Bron | Opmerking |
+| ID | Design Requirement | Bron | Opmerking |
 |--------|-------------|------|-----------|
-| **1. Gebruiksvriendelijkheid** ||||
-| **1.1** | **Eenvoudige interface:** De interface mag enkel de noodzakelijke elementen tonen die nodig zijn voor het spelverloop. | Het volledige project | Er wordt steeds gekozen voor zo weinig mogelijk elementen die voor onduidelijkheid kunnen zorgen. |
-| **1.2** | **Visueel ontwerp:** De visuele elementen (kleuren en tekst) moeten voldoende contrast hebben en goed zichtbaar zijn voor ouderen. | Wave 1 & 2 | Hiervoor werden de 4 minst op elkaar lijkende kleuren gekozen. |
-| **1.3** | **Eenduidige feedback:** Het systeem moet duidelijke en onmiddellijke feedback geven na elke gebruikersactie. | Develop 5.3 | Feedback wordt versterkt door steeds de led van bijhorende knop extra op te laten lichten. |
-| **1.4** | **Tekst:** De tekst in de interface moet eenvoudig en duidelijk zijn of vermeden via symbolen. | Develop 4.2 | De tekst die wordt weergegeven moet kort zijn en in groot lettertype. Indien de tekst te lang is en klein, wordt dit niet goed gelezen. |
-| **1.5** | **Fysiek ergonomisch:** De knoppen moeten groot genoeg zijn, voldoende van elkaar gescheiden en makkelijk bereikbaar met beperkte reikwijdte. | Develop 3.1 & 5.3 | Het bereik van de arm (27,7 cm) en de hoek van het scherm (65°) worden bepaald door simulatie in Siemens NX. De grootte van de knop wordt bepaald door interactie met de gebruikers, die de grootste verkiezen. |
-| **2. Cognitieve belasting** ||||
-| **2.1** | **Aanpasbare moeilijkheidsgraad:** Het systeem moet ondersteuning bieden voor verschillende moeilijkheidsniveaus. | / | Momenteel niet volledig geïmplementeerd, maar voorzien in het ontwerp. |
-| **2.2** | **Herkenning:** De gebruiker moet taken kunnen uitvoeren op basis van herkenning van eerder getoonde informatie. | Develop 5.3 | De gebruiker hoeft de kleurenvolgorde niet te onthouden, enkel te herkennen. |
-| **2.3** | **Overzichtelijke interface:** De interface moet overzichtelijk zijn en de gebruiker stap voor stap begeleiden in het gebruik. | Develop 5.3 | Bij elke stap krijgt de gebruiker uitleg over wat hij moet doen, zodat het gebruik altijd helder blijft en er geen verwarring ontstaat. |
-| **3. Beleving** ||||
-| **3.1** | **Verbondenheid:** Het spel moet een gevoel van verbondenheid oproepen: door samen te spelen. | / |  |
-| **3.2** | **Stimulerend aspect:** Feedback bij succes moet motiverend en positief zijn, zodat gebruikers worden aangemoedigd. | Develop 5.3 | Wanneer de volgorde correct wordt ingevoerd, krijgt de gebruiker positieve feedback. Bij een fout wordt hij aangemoedigd om opnieuw te proberen, zodat de ervaring motiverend blijft. |
-| **3.3** | **Plezier:** Het systeem moet ontworpen zijn om plezier te brengen. De gebruiker moet zich geprikkeld voelen om verder te spelen, niet omdat het moet, maar omdat het leuk is. | Wave 1 | De respondenten testen verschillende opties en geven aan welke hen het meeste plezier gaf. Op basis daarvan werd het ontwerp waar mogelijk verder aangepast. |
-| **4. Gezondheid** ||||
-| **4.1** | **Mentale stimulatie:** Het spel moet ontworpen zijn om het geheugen, de aandacht en het concentratievermogen van ouderen op een laagdrempelige manier te stimuleren. | Literatuurstudie | Wetenschappelijke studies tonen aan dat geheugenspelletjes cognitieve achteruitgang bij ouderen kunnen vertragen. |
-| **4.2** | **Analyseren:** Het systeem moet op termijn data kunnen bijhouden over het gebruik, zodat deze geëvalueerd kunnen worden door externen zoals zorgverleners. | / |  |
-| **4.3** | **Vermijden van overbelasting:** Fysieke handelingen bij het gebruik mogen niet leiden tot overbelasting, en moeten voldoende motorische prikkels geven om beweging te stimuleren. | Develop 5.3 | Door gebruikerstesten en simulaties in Siemens NX werd nagegaan hoe ver gebruikers kunnen reiken. Op basis daarvan kan de fysieke belasting beperkt worden door een slimme en doordachte plaatsing van knoppen en scherm. |
+| **Groep 1** |**Algemeen**|||
+| 1.1 | Het product moet veilig zijn. | Discovery | Scherpe randen vermijden. |
+| 1.2 | Het product kan gebruikt worden door mensen met verschillende niveaus. | Discovery | Aanpasbaar niveau. |
+| 1.3 | Het product zet de gebruiker fysiek aan het werk. | Discovery fase |  |
+| 1.4 | Het product daagt de gebruiker cognitief uit. | Discovery fase | Combinaties onthouden. |
+| 1.5 | Het product kan door meerdere mensen teglijk gebruikt worden. | Discovery fase | Multiplayer optie. |
+| 1.6 | De interface moet overzichtelijk zijn. | Discovery fase | Er kan maar één handeling tegelijk gebeuren. |
+| 1.7 | Het systeem geeft feedback na elke gebruikersactie. | Develop 3 | Neopixel gaat uit wanneer de knop is ingedrukt. |
+| 1.8 | Het product begeleidt de gebruiker stap voor stap | Develop 2 | Er staan instructies op het scherm.|
+| **Groep 2** |**Scherm**|||
+| 2.1 | De kleuren moeten duidelijk verschillen van elkaar. | Definition fase | De gekozen kleuren zijn groen, rood, geel en blauw. Er wordt gewerkt met vormen. |
+| 2.2 | De positionering van het scherm mag geen ongemak veroorzaken in de nek. | Develop 1 | Het scherm wordt onder een hoek van 65 graden geplaatst. |
+| 2.3 | Het scherm moet goed leesbaar zijn. | Develop 2 | Groot lettertype en korte zinnen. Hoge helderheid van het scherm. |
+| **Groep 3** |**Besturing**|||
+| 3.1 | De interface moet eenvoudig te besturen zijn. | Discovery fase | Het product wordt met één knop bestuurd. |
+| 3.2 | De gebruiker kan zelf de kleurencombinatie bedienen | Definition fase | De gebruiker klikt op een knop. |
+| 3.3 | Het product wordt zo weinig mogelijk gestuurd met touchscreen. | Develop 2 | Het product wordt met een fysieke knop bestuurd. |
+| 3.4 | De lichtjes moeten duidelijk zijn. | Develop 3 | De lichtjes zijn voldoende fel. |
+| 3.5 | De lichtjes mogen niet overweldigend zijn. | Develop 3 | Het aantal lichtjes wordt beperkt tot één Neopixel onder de knop. |
+| **Groep 4** |**Knoppen**|||
+| 4.1 | De knop geeft haptische feedback. | Definition fase | De gebruiker voelt een klein klikje |
+| 4.2 | Het moet duidelijk zijn wanneer welke knop moet ingedrukt worden. | Definition fase | Aanduiding door Neopixels aan of uit. |
+| 4.3 | De knoppen moeten makkelijk bereikbaar zijn. | Develop 1 | De knoppen staan in de vorm van een boog. |
+| 4.4 | De bediening van de knoppen mag geen ongemak veroorzaken bij de gebruiker. | Develop 1 | De knoppen staan in de vorm van een boog. |
+| 4.5 | De knoppen moeten groot genoeg zijn. | Develop 3 | De knoppen zijn vier centimeter. |
+| 4.6 | De knoppen moeten voelbaar zijn. | Develop 3 | De knoppen hebben een robuuste vorm. |
+
 
 
 
