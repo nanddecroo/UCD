@@ -490,7 +490,20 @@ Tijdens dit project werd een spelconsole ontwikkeld met als doel ouderen mentaal
 
 Bij het ontwerp werd rekening gehouden met verschillende ergonomische en gebruiksvriendelijke aspecten. Er werd geëxperimenteerd met de vorm, plaats en grootte van de knoppen, de hoek van het scherm, en het verschil tussen fysieke en digitale bediening. Deze keuzes zijn telkens getest met eenvoudige prototypes, gebruik makend van Arduino en Protopie.
 
-Hoewel niet alle geplande functies – zoals het gebruik van vormen, speelmogelijkheden met meerdere personen of data-opslag voor zorgprofessionals – konden worden uitgewerkt, biedt het project een goede basis voor verdere ontwikkeling. De testresultaten gaven nuttige inzichten in de noden van de doelgroep en kunnen dienen als richtlijn voor toekomstige iteraties of toepassingen binnen zorgomgevingen.
+Hoewel niet alle geplande functies – zoals het gebruik van vormen, speelmogelijkheden met meerdere personen of data-opslag voor zorgprofessionals – konden worden uitgewerkt, werd wel een taakanalyse gemaakt om een beeld te scheppen over hoe de display op de console er uit zou kunnen zien. De afbeelding staat hieronder. 
+
+<p align="center">
+<img src="Afbeeldingen/analys.jpg" alt="31test3" width="400">
+</p>
+
+Omdat niet enkel kleuren worden getoond, maar ook vormen en geluiden moeten verschillende aspecten worden toegevoegd aan de console. Zo staat op elke knop een display om vormen te kunnen tonen. Ook speakers zijn een must. Hoe de console er zou uit zien is te zien hieronder.
+
+<p align="center">
+<img src="Afbeeldingen/render.jpg" alt="31test3" width="400">
+</p>
+
+Ondanks deze extra functie’s niet zijn toegevoegd, biedt het project een goede basis voor verdere ontwikkeling. De testresultaten gaven nuttige inzichten in de noden van de doelgroep en kunnen dienen als richtlijn voor toekomstige iteraties of toepassingen binnen zorgomgevingen.
+
 ### Product Requirements 
 Onderstaande tabel geeft een overzicht van de belangrijkste algemene productvereisten. Deze zijn afgeleid uit een combinatie van bronnen, waaronder literatuuronderzoek en gebruikerstesten. Hierbij staat steeds een opmerking, waarin vermeld staat hoe daarmee rekening is gehouden in dit project.
 | ID | Design Requirement | Bron | Opmerking |
@@ -555,11 +568,28 @@ Een bijkomend aandachtspunt is dat het prototype momenteel geen muziek of auditi
 #### Conclussie
 Tijdens dit project werd een gebruiksvriendelijk spel ontwikkeld dat ouderen mentaal prikkelt en hen uitdaagt op een toegankelijke manier. Er werd goed samengewerkt, snel geprototyped en rekening gehouden met feedback van de doelgroep. Ondanks enkele beperkingen, zoals het ontbreken van geluid of meer fysieke interactie, is het eindresultaat iets waar trots op mag worden teruggekeken.
 ## Technische beschrijving 
-### Bill of materials
-- Dun hout voor de behuizing
-- Scherm om kleurencombinatie te tonen
-- Drukknoppen die kunnen oplichten in verschillende kleuren,
-  om de combinatie in te geven en het scherm te kunnen bedienen 
+__Bill of materials__
+
+- Hout
+- Stukken ge-3D-print
+- Arduino UNO
+- Drukknoppen
+- Neopixels
+- Kabels
+- <a href="Arduino code/finale_code_schakeling1/finale_code_schakeling1.ino.pdf" target="_blank">Code Arduino</a>
+
+De schakeling voor van het finale prototype staat hieronder.
+
+<p align="center">
+<img src="Afbeeldingen/ET_finaal_afbeelding.jpg" alt="31test3" width="400">
+</p>
+
+Het finale prototype is hieronder afgebeeld.
+
+<p align="center">
+<img src="Afbeeldingen/finalproto.jpg" alt="31test3" width="400">
+</p>
+
 ## Bijlagen
 __Soryboard__
 
