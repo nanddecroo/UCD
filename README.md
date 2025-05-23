@@ -233,7 +233,7 @@ Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de 
 </p>
 
 ### Resultaten
-De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zijn. Er worden tijdens deze fase 3 testen afgenomen per respondent (N=4).
+De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zijn. Er worden tijdens deze fase 3 testen afgenomen per respondent (N=4). Bij bijlagen kan het rapport en het testprotocol bekeken worden.
 
 __Test 1__
 
@@ -261,7 +261,7 @@ Van elke respondent worden de resultaten weergegeven in de tabel. Het gemiddelde
 
 __Human modelling__
 
-De simulatie van de reach en de comfort analyse zijn hieronder afgebeeld. In de simulatie van dereach is te zien dt het prototype binnen het bereik valt. De resultaten van de comfort analyse zijn ook goed. Bijna alle metingen vallen binnen de grenzen. Degene die erbuiten vallen zijn te verwaarlozen aangezien dit maar over een paar graden gaat.
+De simulatie van de reach en de comfort analyse zijn hieronder afgebeeld. In de simulatie van dereach is te zien dt het prototype binnen het bereik valt. De resultaten van de comfort analyse zijn ook goed. Bijna alle metingen vallen binnen de grenzen. Degene die erbuiten vallen zijn te verwaarlozen aangezien dit maar over een paar graden gaat. De resultaten hiervan zijn te zien in het rapport van develop 2, zie bijlagen.
 
 <p align="center">
 <img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="400">
@@ -385,6 +385,8 @@ Na de guided test wordt een BERT-test afgenomen. Hier scoort prototype 3 nog bet
 <img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="400">
 </p>
 
+Bij bijlagen kan het rapport bekeken worden.
+
 ### Conclusies & implicaties
 __Gebruikerstests__
 
@@ -475,6 +477,8 @@ Knop 1 en knop 3 scoren hier beide het hoogst. Deze twee knoppen zijn beide robu
 <p align="center">
 <img src="Afbeeldingen/D5.3tabel3.1.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D5.3diagram3.jpg" alt="31test3" width="300">
 </p>
+
+Het rapport hiervan staat onderaan bij bijlagen.
 
 ### Conclusies & implicaties
 Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen. Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
@@ -622,12 +626,15 @@ __Develop__
 * __Develop 1__
   * <a href="DOCX/Testprotocol D3.1.pdf" target="_blank">Protocol (PDF)</a>
   * <a href="DOCX/Rapport D3.1.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/informed consent D3.1.pdf" target="_blank">Informed Consent (PDF)</a>
 * __Develop 2__
   * <a href="DOCX/Testprotocol D4.2.pdf" target="_blank">Protocol (PDF)</a>
   * <a href="DOCX/Rapport D4.2.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/informed consent D4.2.pdf" target="_blank">Informed Consent (PDF)</a>
 * __Develop 3__
   * <a href="DOCX/Testprotocol D5.3.pdf" target="_blank">Protocol (PDF)</a>
   * <a href="DOCX/Rapport D5.3.pdf" target="_blank">Rapport (PDF)</a>
+  * <a href="DOCX/informed consent D5.3.pdf" target="_blank">Informed Consent (PDF)</a>
 ## Bronnen
 
 [^1]: Corrada, M. M., Brookmeyer, R., Paganini‐Hill, A., Berlau, D., & Kawas, C. H. (2009). Dementia incidence continues to increase with age in the oldest old: The 90+ study. Annals Of Neurology
