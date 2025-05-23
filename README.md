@@ -232,7 +232,7 @@ De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zij
 
 __Test 1__
 
-Prototype 3 scoort het best op de BERT-test. 
+Bij iedere respondent scoort Prototype 3 het best op de BERT-test. 
 
 <p align="center">
 <img src="Afbeeldingen/d3.1_bertingevuld.jpg" alt="bertresult" width="300">
@@ -240,7 +240,7 @@ Prototype 3 scoort het best op de BERT-test.
 
 __Test 2__
 
-De gemiddelde afstand ligt op 27,7 centimeter.
+Het schijfje wordt gemiddeld afstand op een afstand van 27,7 centimeter neergelegd.
 
 <p align="center">
 <img src="Afbeeldingen/d3.1_test2result.jpg" alt="31test2resul" width="300">
@@ -248,7 +248,7 @@ De gemiddelde afstand ligt op 27,7 centimeter.
 
 __Test 3__
 
-Het gemiddelde van de gemeten hoeken is 65 graden.
+Van elke respondent worden de resultaten weergegeven in de tabel. Het gemiddelde van de gemeten hoeken is 65 graden.
 
 <p align="center">
 <img src="Afbeeldingen/d3.1_test3result.jpg" alt="31test3resul" width="300">
@@ -358,14 +358,14 @@ Het TAP verliep niet zoals gehoopt. De ouderen vinden het moeilijk om tegelijker
 
 __Test 3: Guided test__
 
-Ook voor de guided test wordt de tijd gemeten en worden de errors bijgehouden. Ook hier geeft prototype 3 de beste resultaten weer.
+Ook voor de guided test wordt de tijd gemeten en worden de errors bijgehouden. Hier haalt ook prototype 3 de beste resultaten.
 
 <p align="center">
 <img src="Afbeeldingen/D4.2tabeltest2.jpg" alt="31test3" width="300"><img src="Afbeeldingen/D4.2diagramtest2.jpg" alt="31test3" width="300">
 <img src="Afbeeldingen/D4.2tabelerrorstest2.jpg" alt="31test3" width="300">
 </p>
 
-Ook na de guided test werd een BERT-test afgenomen. Hier scoort prototype 3 nog beter. 
+Na de guided test wordt een BERT-test afgenomen. Hier scoort prototype 3 nog beter. 
 
 <p align="center">
 <img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="400">
@@ -386,13 +386,14 @@ __Gebruikerstests__
 * __Bediening scherm:__ Het bedienen van een kleurenvolgorde via een scherm is voor deze doelgroep niet vanzelfsprekend. Voor hen is een intuïtieve en fysieke bediening vaak toegankelijker.
 * __Zichtbare knop is noodzakelijk:__ Zonder een zichtbare knop weten gebruikers niet hoe ze naar de volgende kleur moeten gaan. Dit zorgt voor verwarring. Een duidelijke visuele aanwijzing is essentieel om het gebruik vlot te laten verlopen.
 * __Complexe bediening:__ Gebruikers vergeten snel hoe het systeem werkt als ze er te veel bij moeten nadenken. Een eenvoudige en logische interface helpt hen om het product correct te gebruiken, zonder extra cognitieve belasting.
-* __Beste resultaten__ Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
+* __Beste resultaten:__ Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
 
 __Antropometrie Siemens NX__
 
 * __Reikwijdte:__ Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
 * __Comfort:__ De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
 * __Geen klachten:__ Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
+
 
 __Conclusies__
 
@@ -401,7 +402,7 @@ __Conclusies__
 3. Het moet duidelijk zijn welke knop wanneer moet ingedrukt worden.
 4. De interface moet eenvoudig zijn.
 
-## 2.3 Develop 3
+## 2.3 Develop 3: Sensoriële ergonomie
 In de laatste fase wordt ingegaan op het sensoriële aspect van de console. Zo wordt nagegaan hoe duidelijk en comfortabel de handelingen met het product zijn voor een optimale beleving tijdens de interactie. 
 
 Eerst wordt getest hoeveel verlichting nodig is om de bijbehorende kleur van de knop goed zichtbaar te maken, evenals de optimale positie van die verlichting. De vorm en grootte van de knoppen worden in een apart prototype onderzocht. 
