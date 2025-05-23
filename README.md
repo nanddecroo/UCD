@@ -183,7 +183,7 @@ __Conclusies__
 3. De knoppen moeten duidelijk angeduid zijn.
 4. Het moet duidelijk zijn wanneer de knoppen moeten ingedrukt worden.
 ## 2.1 Develop 1: Fysieke ergonomie
-Tijdens deze fase wordt de fysieke ergonomie onderzocht. Dit is een belangrijk onderdeel aangezien senioren minder flexibel en bewegelijk zijn. De focus ligt vooral op de schouder, bovenarm en nek omdat de beze delen het meest belast worden.
+Tijdens deze fase wordt de fysieke ergonomie onderzocht. Dit is een belangrijk onderdeel aangezien senioren minder flexibel en bewegelijk zijn. De focus ligt vooral op de schouder, bovenarm en nek omdat de beze delen het meest belast worden. Ook wordt er nog een aanvullende analyse uitgevoerd om bijkomende inzichten te verwerven in de fysieke ergonomie.
 
 ### Doelstellingen
 Met deze test worden de dimensies en de vorm van het product bepaald. Er worden ook inzichten verworven over de bewegelijkheid van senioren. 
@@ -226,6 +226,11 @@ Het scherm van het product moet onder een bapaalde hoek geplaatst worden. Om de 
 </p>
 
 * __BERT-test test 1:__ Er wordt gescoord van "oncomfortabel" tot "comfortabel" voor zowel de schouder als de bovenarm.
+* __Siemens NX human modelling:__ Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld langer leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
+
+<p align="center">
+<img src="Afbeeldingen/D4.2NXopstelling.jpg" alt="31test3" width="300">
+</p>
 
 ### Resultaten
 De testen worden afgenomen in een rusthuis bij senioren die cognitief gezond zijn. Er worden tijdens deze fase 3 testen afgenomen per respondent (N=4).
@@ -254,6 +259,14 @@ Van elke respondent worden de resultaten weergegeven in de tabel. Het gemiddelde
 <img src="Afbeeldingen/d3.1_test3result.jpg" alt="31test3resul" width="300">
 </p>
 
+__Human modelling__
+
+De simulatie van de reach en de comfort analyse zijn hieronder afgebeeld. In de simulatie van dereach is te zien dt het prototype binnen het bereik valt. De resultaten van de comfort analyse zijn ook goed. Bijna alle metingen vallen binnen de grenzen. Degene die erbuiten vallen zijn te verwaarlozen aangezien dit maar over een paar graden gaat.
+
+<p align="center">
+<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="400">
+</p>
+
 ### Conclusies & implicaties
 __Vorm van het toestel:__
 
@@ -267,6 +280,12 @@ __Hoek van het scherm:__
 
 De optimale schermhoek is bepaald op 65 graden. Het scherm wordt onder deze hoek gepositioneerd om leesbaarheid te garanderen zonder visuele of fysieke belasting.
 
+__Antropometrie Siemens NX__
+
+* __Reikwijdte:__ Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
+* __Comfort:__ De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
+* __Geen klachten:__ Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
+
 __Conclusies__
 
 1. De knoppen moeten makkelijk bereikbaar zijn.
@@ -275,7 +294,6 @@ __Conclusies__
 ## 2.2 Develop 2: Cognitieve ergonomie
 Gedurende deze fase wordt gekeken naar de cognitieve ergonomie van het product. Daarbij wordt onderzocht in hoeverre de interface en de interactie logisch en begrijpelijk zijn voor de gebruiker. Het doel is dat het systeem gemakkelijk te gebruiken is, zonder dat het onnodig veel denkwerk vereist. Zo kan de gebruiker zich concentreren op de eigenlijke taak, zonder afgeleid te worden door onduidelijke bediening of verwarring over hoe het systeem werkt. Op die manier draagt de test bij aan een gebruiksvriendelijke, efficiënte en toegankelijke gebruikerservaring. 
 
-Ook wordt er nog een aanvullende analyse uitgevoerd om bijkomende inzichten te verwerven in de fysieke ergonomie.
 
 ### Doelstellingen
 Nagaan of de interface logisch en gebruiksvriendelijk is, zodat de gebruiker het systeem intuïtief kan bedienen zonder onnodige mentale inspanning. 
@@ -329,11 +347,7 @@ In de derde test voert de gebruiker opnieuw dezelfde taak uit, maar via een fict
 * __Wizard-of-oz:__ Twee smartphones videobellen met elkaar. Eén smartphone deelt het scherm met de andere, zo kan de ene smartphone de interactie met de fysieke knop simuleren.
 * __BERT-test:__ Tijdens deze test wordt per prototype een score gegeven van onduidelijk tot duidelijk en van afstotelijk tot uitnodigend.
 * __Error-analyse__: Tijdens de test worden het aantal en het type errrors geteld door observatie.
-* __Siemens NX human modelling:__ Er wordt een vrouw van 79 jaar gesimuleerd. Er wordt gekozen voor een vrouw omdat vrouwen gemiddeld langer leven dus de kans dat een vrouw het product gebruikt is groter en 79 jaar is de maximale leeftijd dat geselecteerd kan worden. De opstelling is te zien op de afbeelding hieronder.
 
-<p align="center">
-<img src="Afbeeldingen/D4.2NXopstelling.jpg" alt="31test3" width="300">
-</p>
 
 ### Resultaten
 
@@ -371,14 +385,6 @@ Na de guided test wordt een BERT-test afgenomen. Hier scoort prototype 3 nog bet
 <img src="Afbeeldingen/D4.2berttest2.jpg" alt="31test3" width="400">
 </p>
 
-__Human modelling__
-
-De simulatie van de reach en de comfort analyse zijn hieronder afgebeeld. In de simulatie van dereach is te zien dt het prototype binnen het bereik valt. De resultaten van de comfort analyse zijn ook goed. Bijna alle metingen vallen binnen de grenzen. Degene die erbuiten vallen zijn te verwaarlozen aangezien dit maar over een paar graden gaat.
-
-<p align="center">
-<img src="Afbeeldingen/D4.2NXreach.jpg" alt="31test3" width="400"><img src="Afbeeldingen/D4.2NXtabel.jpg" alt="31test3" width="400">
-</p>
-
 ### Conclusies & implicaties
 __Gebruikerstests__
 
@@ -387,12 +393,6 @@ __Gebruikerstests__
 * __Zichtbare knop is noodzakelijk:__ Zonder een zichtbare knop weten gebruikers niet hoe ze naar de volgende kleur moeten gaan. Dit zorgt voor verwarring. Een duidelijke visuele aanwijzing is essentieel om het gebruik vlot te laten verlopen.
 * __Complexe bediening:__ Gebruikers vergeten snel hoe het systeem werkt als ze er te veel bij moeten nadenken. Een eenvoudige en logische interface helpt hen om het product correct te gebruiken, zonder extra cognitieve belasting.
 * __Beste resultaten:__ Tijdens de test zeiden de meeste mensen dat prototype 3 voor hen het fijnst werkte. Ze vonden het makkelijk en duidelijk. Dat komt overeen met de resultaten, waaruit ook blijkt dat dit prototype het beste scoort.
-
-__Antropometrie Siemens NX__
-
-* __Reikwijdte:__ Knoppen mogen niet te ver uit elkaar staan, want de gebruiker kan niet ver reiken. Alles moet dicht bij elkaar zitten.
-* __Comfort:__ De meeste houdingen vallen binnen de veilige marge. Kleine afwijkingen zijn verwaarloosbaar.
-* __Geen klachten:__ Het gebruik van het product zal geen spierpijn of andere lichamelijke klachten veroorzaken.
 
 
 __Conclusies__
@@ -478,6 +478,7 @@ Knop 1 en knop 3 scoren hier beide het hoogst. Deze twee knoppen zijn beide robu
 
 ### Conclusies & implicaties
 Uit de resultaten van test 1 blijkt dat 1 neopixel onder de drukknop het beste scoort. Over test 2 waren de respondenten het unaniem eens. De grootste knop was de favoriet. Uit de resultaten van test 3 is te zien dat twee knoppen even goed scoren. Deze knoppen zijn eerder grote, grovere knoppen. Ook is het belangrijk dat de lichtjes niet te fel zijn en dat de knoppen voldoende uit elkaar staan.
+
 __Conclusies__
 1. De lichtjes die gebruikt worden moeten duidelijk zijn.
 2. De lichtjes mogen niet overweldigend zijn
