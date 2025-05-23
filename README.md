@@ -9,7 +9,9 @@ Veel mensen ervaren bij henzelf of rondom hen mentale achteruitgang naarmate ze 
 
 De cognitieve oefening hiervoor is Intelight, een slimme console die gebruikers helpt hun geheugen te trainen door middel van interactieve kleurcombinatiespelletjes. De console stimuleert hersentraining waardoor het brein actief blijft en biedt verschillende denkoefeningen met verschillende moeilijkheidsniveaus, wat de doelgroep doet uitbreiden. 
 
-<img src="Afbeeldingen/Heroshot_finaal.jpg" alt="SCHETS" width="500">
+<p align="center">
+<img src="Afbeeldingen/Heroshot_finaal.jpg" alt="SCHETS" width="100%">
+</p>
 
 ## Introductie
 Het project is vetrokken uit de design challenge “Healthy Aging”, waarbij het ontwerpen van slimme producten die zorgen voor het gezond verouderen centraal staat.  
@@ -28,6 +30,7 @@ Door deze kleurcombinaties te gaan onthouden wordt het werkgeheugen en de visuel
 * Veiligheid: De doelgroep zijn ouderen. Het is een kwetsbare groep. Scherpe randen vermijden.
 ## Methodologie
 Als weergave van de methodologie werd een variant op de methode van de ‘Double Diamond’ toegepast. Deze methode laat toe om meerdere keren te divergeren en convergeren. Er wordt gewerkt in verschillende fases.
+
 <p align="center">
 <img src="Afbeeldingen/tijdlijngoed.jpg" alt="diamond" width="100%">
 </p>
